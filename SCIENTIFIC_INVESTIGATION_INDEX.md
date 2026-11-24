@@ -24,10 +24,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [017](investigations/017-MAGNETIC-FIELD-FILAMENT-ALIGNMENT-RELATIVE-ORIENTATION-STATISTICS-PROJECTION-AND-OBSERVATIONAL-LIMITS.md) | Magnetic-Field and Filament Alignment: Relative-Orientation Statistics, Projection, and Observational Limits | Molecular-cloud astrophysics, MHD, dust polarimetry, radio and submillimetre astronomy, statistics | Initial investigation and four-question review recorded |
 | [018](investigations/018-THREE-DIMENSIONAL-MAGNETIC-FIELD-RECONSTRUCTION-COMPLEMENTARY-OBSERVATIONAL-WITNESSES.md) | Three-Dimensional Magnetic-Field Reconstruction: Complementary Observational Methods and Their Limits | Molecular-cloud astrophysics, radio astronomy, polarimetry, spectroscopy, MHD, radiative transfer, tomography | Initial investigation and four-question review recorded |
 | [019](investigations/019-TESTING-THREE-DIMENSIONAL-MAGNETIC-FIELD-RECONSTRUCTIONS-SYNTHETIC-OBSERVATIONS-FORWARD-MODELING-RECOVERY-TESTS-AND-INDEPENDENT-VALIDATION.md) | Testing Three-Dimensional Magnetic-Field Reconstructions: Synthetic Observations, Forward Modeling, Recovery Tests, and Independent Validation | Molecular-cloud astrophysics, MHD, radiative transfer, polarimetry, inverse problems, statistical inference | Initial investigation and four-question review recorded |
+| [020](investigations/020-PRIORS-REGULARIZATION-AND-UNDERDETERMINED-INVERSE-PROBLEMS-IN-THREE-DIMENSIONAL-MAGNETIC-FIELD-RECONSTRUCTION.md) | Priors, Regularization, and Underdetermined Inverse Problems in Three-Dimensional Magnetic-Field Reconstruction | Inverse-problem theory, Bayesian statistics, regularization, astrophysical magnetic-field reconstruction | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. One open lead from Investigation 019 is the influence of priors, regularization, and underdetermined inverse problems on the family of acceptable 3D reconstructions. This is a possible direction, not a predetermined assignment.
+No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. Investigation 020 raises a possible next direction: information gain and experimental design—how to identify which additional observations would most effectively distinguish competing reconstructions. This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
