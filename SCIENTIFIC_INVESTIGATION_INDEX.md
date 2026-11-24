@@ -48,10 +48,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [039](investigations/039-EDEN-AND-BABEL-HUMAN-CAPABILITY-DIVINE-BOUNDARIES-AND-ALIGNMENT.md) | Eden and Babel: Human Capability, Divine Boundaries, and Alignment | Biblical studies, Hebrew literary analysis, theology, linguistics, social cognition, systems science, and philosophy of technology | Initial comparative investigation recorded |
 | [040](investigations/040-knowledge-increase-collective-agreement-and-alignment-genesis-3-genesis-11-daniel-12.md) | Knowledge Increase, Collective Agreement, and Alignment: Genesis 3, Genesis 11, and Daniel 12 | Biblical studies, Hebrew textual interpretation, epistemology, information theory, social cognition, collective intelligence, AI evaluation, and systems science | Initial text-led convergence study recorded |
 | [041](investigations/041-KNOWLEDGE-UNDERSTANDING-WISDOM-AND-ALIGNMENT-THE-WITNESS-AND-DRIFT.md) | Knowledge, Understanding, Wisdom, and Alignment: The Witness and Drift | Biblical studies, theology, epistemology, moral psychology, behavioral science, cognitive science, AI evaluation, and systems science | Initial Scriptural and concept-led investigation recorded |
+| [042](investigations/042-RECEPTION-RECOGNITION-WILLINGNESS-AND-RESPONSE-THE-WITNESS-IS-NOT-THE-JUDGE.md) | Reception, Recognition, Willingness, and Response: The Witness Is Not the Judge | Biblical studies, theology, epistemology, agency, moral psychology, behavioral science, and AI evaluation | Initial text-led investigation; attribution and observer-limit safeguards recorded |
 
 ## Next proposed investigation
 
-Investigation 041 raises a possible next direction: reception, recognition, willingness, and response—if a Witness can accurately describe what has been received but does not respond in accordance with it, what does Scripture reveal about the difference between reception, recognition, willingness, and action? This is a possible lead, not a predetermined assignment.
+Investigation 042 raises a possible next direction: discernment without usurpation—how can a Witness test what is presented without taking the Author's place? Possible texts include Acts 17:11, 1 Thessalonians 5:21, John 7:24, Matthew 7:1–5, and 1 Corinthians 4:5. The study must distinguish testing claims, correcting error, judging actions, condemning persons, and claiming knowledge of hidden motives. This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
