@@ -23,12 +23,13 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [015](investigations/015-COSMIC-RAY-IONIZATION-HEATING-CHEMISTRY-AND-MOLECULAR-CLOUD-EVOLUTION.md) | Cosmic-Ray Influence on Molecular Clouds: Ionization, Heating, Chemistry, and Cloud Evolution | Astrochemistry, molecular-cloud physics, cosmic-ray physics, star formation | Initial investigation and four-question review recorded |
 | [016](investigations/016-COSMIC-RAY-IONIZATION-MAGNETIC-COUPLING-AND-AMBIPOLAR-DIFFUSION-IN-MOLECULAR-CLOUDS.md) | Cosmic-Ray Ionization, Magnetic Coupling, and Ambipolar Diffusion in Molecular Clouds | Molecular-cloud physics, non-ideal MHD, astrochemistry, star formation | Initial investigation and four-question review recorded |
 | [017](investigations/017-MAGNETIC-FIELD-FILAMENT-ALIGNMENT-RELATIVE-ORIENTATION-STATISTICS-PROJECTION-AND-OBSERVATIONAL-LIMITS.md) | Magnetic-Field and Filament Alignment: Relative-Orientation Statistics, Projection, and Observational Limits | Molecular-cloud astrophysics, MHD, dust polarimetry, radio and submillimetre astronomy, statistics | Initial investigation and four-question review recorded |
+| [018](investigations/018-THREE-DIMENSIONAL-MAGNETIC-FIELD-RECONSTRUCTION-COMPLEMENTARY-OBSERVATIONAL-WITNESSES.md) | Three-Dimensional Magnetic-Field Reconstruction: Complementary Observational Methods and Their Limits | Molecular-cloud astrophysics, radio astronomy, polarimetry, spectroscopy, MHD, radiative transfer, tomography | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**018 — Reconstructing Three-Dimensional Magnetic-Field and Gas Structure: Dust Polarization, Zeeman Splitting, Starlight Polarization, and Molecular-Line Kinematics.**
+**019 — Testing Three-Dimensional Magnetic-Field Reconstructions: Synthetic Observations, Forward Modeling, Recovery Tests, and Independent Validation.**
 
-This proposed investigation will examine the complementary information and limitations of these measurement methods, and whether combining them reduces projection and line-of-sight degeneracies. It will not assume that any single method or their combination produces a complete three-dimensional reconstruction. This is a research direction, not a fixed sequence; other evidence may redirect the inquiry.
+This proposed investigation will examine whether 3D MHD models, radiative-transfer synthesis, realistic instrumental effects, and recovery tests can distinguish a reconstruction that reproduces observations from one uniquely constrained by them. It will preserve uncertainty and competing models. This is a research direction, not a fixed sequence; other evidence may redirect the inquiry.
 
 ## Indexing standard
 
