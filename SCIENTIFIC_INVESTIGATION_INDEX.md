@@ -12,14 +12,15 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [004](investigations/004-READING-STELLAR-LIGHT-ATMOSPHERES-AND-SPECTRA.md) | Reading Stellar Light: Atomic Spectra, Stellar Atmospheres, and the Limits of Remote Observation | Astrophysics, stellar spectroscopy, radiative transfer, observational astronomy | Initial investigation and four-question review recorded |
 
 | [005](investigations/005-THE-INTERSTELLAR-MEDIUM-ABSORPTION-DUST-REDDENING-AND-THE-JOURNEY-OF-STARLIGHT.md) | The Interstellar Medium: Absorption, Dust, Reddening, and the Journey of Starlight | Astrophysics, interstellar-medium physics, spectroscopy, radiative transfer, dust physics | Initial investigation and four-question review recorded |
+| [006](investigations/006-RECONSTRUCTING-INTERSTELLAR-STRUCTURE-MULTIPLE-SIGHT-LINES-EMISSION-MAPS-AND-THREE-DIMENSIONAL-INFERENCE.md) | Reconstructing Interstellar Structure: Multiple Sight Lines, Emission Maps, and Three-Dimensional Inference | Galactic astronomy, interstellar-medium physics, astrometry, radio astronomy, statistical inference | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**006 — Reconstructing Interstellar Structure: Multiple Sight Lines, Emission Maps, and Three-Dimensional Inference.**
+**007 — Interstellar Clouds: Pressure, Gravity, Magnetic Fields, Turbulence, and the Formation of Structure.**
 
-This proposed investigation will examine how absorption measurements toward stars at different distances are combined with emission maps, dust extinction, polarization, and distance estimates to infer the spatial distribution of interstellar matter. It will distinguish direct measurements from model-dependent reconstruction and preserve non-uniqueness and uncertainty.
+This proposed investigation will examine how gravity, thermal pressure, magnetic fields, turbulence, and external forces contribute to the formation, support, fragmentation, or dispersal of interstellar clouds. It will distinguish observed cloud properties from dynamical models and will not assume that one process dominates every cloud.
 
-The question emerged from Investigation 005 and remains a proposed direction, not a fixed sequence for all sciences. Other observations may redirect the research.
+The question emerged from Investigation 006 and remains a proposed direction, not a fixed sequence for all sciences. Other observations may redirect the research.
 
 ## Indexing standard
 
