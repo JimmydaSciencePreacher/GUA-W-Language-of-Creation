@@ -29,10 +29,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [022](investigations/022-MEASUREMENT-INDEPENDENCE-CORRELATED-ERRORS-AND-EVIDENCE-FUSION.md) | Measurement Independence, Correlated Errors, and Evidence Fusion | Statistical inference, measurement science, Bayesian data fusion, astrophysical magnetism, polarimetry, Zeeman spectroscopy | Initial investigation and four-question review recorded |
 | [023](investigations/023-MODEL-MISSPECIFICATION-AND-THE-MISSING-VARIABLE-PROBLEM.md) | Model Misspecification and the Missing-Variable Problem | Statistical model checking, Bayesian inference, inverse problems, astrophysics, uncertainty quantification | Initial investigation and four-question review recorded |
 | [024](investigations/024-FALSIFIABILITY-MODEL-DISCRIMINATION-AND-CRITICAL-TEST-DESIGN.md) | Falsifiability, Model Discrimination, and Critical-Test Design | Philosophy of science, experimental design, Bayesian model comparison, observational astronomy, astrophysical magnetism | Initial investigation and four-question review recorded |
+| [025](investigations/025-OBSERVATIONAL-SELECTION-EFFECTS-DETECTION-BIAS-AND-THE-MISSING-EVIDENCE-PROBLEM.md) | Observational Selection Effects, Detection Bias, and the Missing-Evidence Problem | Observational astronomy, astrostatistics, survey design, measurement theory, astrophysical instrumentation | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. Investigation 024 raises a possible next direction: observational selection effects, detection bias, and the missing-evidence problem—how instruments, thresholds, sample construction, and survey coverage shape what enters the evidence, and what can legitimately be concluded from a non-detection. This is a possible lead, not a predetermined assignment.
+No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. Investigation 025 raises a possible next direction: observation, measurement, and the difference between a signal and the thing signaled—what an instrument measures, how physical interaction becomes a recorded value, and when a proxy can be mistaken for the underlying property. This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
