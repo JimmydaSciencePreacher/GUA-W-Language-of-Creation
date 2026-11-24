@@ -36,10 +36,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | [028](investigations/028-INDEPENDENT-WITNESSES-SHARED-ASSUMPTIONS-AND-CORRELATED-EVIDENCE.md) | Independent Witnesses, Shared Assumptions, and Correlated Evidence | Statistical dependence, causal graphical models, measurement science, Bayesian evidence integration, data provenance, experimental design, gravitational-wave astronomy, research synthesis | Initial investigation and four-question review recorded |
 | [029](investigations/029-CIRCULAR-VALIDATION-DATA-LEAKAGE-AND-INDEPENDENT-TESTING.md) | Circular Validation, Data Leakage, and the Difference Between Learning a Pattern and Independently Testing It | Machine learning evaluation, statistical learning theory, experimental design, data provenance, benchmark construction, large-language-model evaluation, research methodology | Initial investigation and four-question review recorded |
+| [030](investigations/030-DISTRIBUTION-SHIFT-GENERALIZATION-AND-CHANGING-ENVIRONMENTS.md) | Distribution Shift, Generalization, and the Difference Between a Stable Pattern and a Changing Environment | Machine learning, statistical learning theory, domain generalization, concept-drift research, measurement science, AI system monitoring, observational science, environmental forecasting | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-Investigation 029 raises a possible next direction: distribution shift, generalization, and the difference between a stable pattern and a changing environment—when the conditions that produced the training evidence change, which learned relationships remain reliable, which fail, and what evidence is required to recognize the difference? This is a possible lead, not a predetermined assignment.
+Investigation 030 raises a possible next direction: uncertainty, calibration, abstention, and the limits of a Witness's confidence—how can a Witness distinguish a well-supported result from an uncertain inference, an unfamiliar condition, or a case in which the available evidence does not justify a confident answer? This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
