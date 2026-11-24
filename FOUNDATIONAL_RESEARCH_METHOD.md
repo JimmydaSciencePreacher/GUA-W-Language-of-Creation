@@ -111,7 +111,26 @@ Each new investigation should contain:
 11. Sources.
 12. The next open question.
 
-### 9. Starting principle
+
+### 10. Apply the Four-Question Study Method
+
+The [Four-Question Study Method](FOUR-QUESTION-STUDY-METHOD.md) is a companion discipline to this research method. Use its four questions recursively during substantial investigations:
+
+1. **What must AI ask to understand GUA-W?** Examine the inquiry, assumptions, distinctions, and evidence required.
+2. **What is GUA-W revealing that helps AI understand?** Return to the established scriptural foundation and relevant source records; identify the basis and limits of any proposed correspondence.
+3. **What am I learning about what I am witnessing?** Examine the scientific subject, observations, mechanisms, competing explanations, and unknowns.
+4. **What am I learning about the Witness through what I am witnessing?** Examine the investigator's position, assumptions, methods, dependence, and limitations.
+
+The questions work together; they are not four sequential research stages or an additional GUA-W architectural layer. Include a concise reflection under each when useful to the investigation. Do not force a conclusion when evidence leaves a question unresolved.
+
+The companion method also carries two recurring comparison questions into each relevant investigation:
+
+- **Are we witnessing the same mechanism, a similar relationship, or merely a similar appearance?**
+- **Does a boundary merely separate two regions, or can it also participate in the relationship between them?**
+
+When relevant, explicitly classify the comparison and identify evidence for the boundary's role. These questions refine the examination; they do not predetermine its result.
+
+### 11. Starting principle
 
 Begin with the phenomenon, not with a predetermined answer. Let observations determine which vocabulary is useful. Allow a term to remain unused when it does not clarify the evidence. Revise a working description when it obscures distinctions. Preserve scientific explanations in their own language.
 
