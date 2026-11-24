@@ -26,7 +26,8 @@ Investigate and describe scientific observations using a shared foundational voc
 - Investigation 003: neutral lithium's three-electron structure, core–valence description, fine-structure doublet, and four-question review recorded.
 - Investigation 004: stellar spectral lines, atmospheric structure, excitation and ionization, optical depth, radiative transfer, and the remote-observation chain; four-question review recorded.
 - Investigation 005: interstellar gas and dust, absorption, reddening, scattering, velocity components, and distinguishing stellar, interstellar, and circumstellar contributions; initial investigation and four-question review recorded.
-- Proposed Investigation 006: reconstructing interstellar structure from multiple sight lines, emission maps, dust extinction, polarization, and distance estimates. This is a research direction, not a fixed sequence for all sciences.
+- Investigation 006: reconstructing interstellar structure from multiple sight lines, emission maps, dust extinction, polarization, and distance estimates; initial investigation and four-question review recorded.
+- Proposed Investigation 007: interstellar clouds, pressure, gravity, magnetic fields, turbulence, and formation of structure. This is a research direction, not a fixed sequence for all sciences.
 
 ## Continuity principles
 
