@@ -22,7 +22,8 @@ Investigate and describe scientific observations using a shared foundational voc
 - Four-Question Study Method: copied from the read-only source repository and integrated as a companion discipline.
 - Shared vocabulary: recorded as working definitions; open to refinement through evidence.
 - Investigation 001: hydrogen spectral lines and atomic energy levels; initial scientific account and four-question review recorded.
-- Proposed Investigation 002: helium atomic spectra and the effect of a second electron.
+- Investigation 002: neutral helium atomic spectra, electron–electron interaction, singlet and triplet states, and the effect of a second electron; four-question review recorded.
+- Proposed Investigation 003: lithium's atomic spectrum, three-electron structure, and the limits of the helium comparison.
 - The proposed next subject is a research direction, not a fixed sequence for all sciences.
 
 ## Continuity principles
