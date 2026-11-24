@@ -30,7 +30,8 @@ Investigate and describe scientific observations using a shared foundational voc
 - Investigation 007: interstellar clouds, thermal pressure, gravity, magnetic fields, turbulence, external forces, cloud formation, fragmentation, and dispersal; initial investigation and four-question review recorded.
 - Investigation 008: interstellar filaments and dense cores, geometry, line mass, fragmentation, core classification, accretion, magnetic-field orientation, and evidence for star formation; initial investigation and four-question review recorded.
 - Investigation 009: protostars, circumstellar disks, angular-momentum transport, accretion, jets, disk winds, molecular outflows, feedback, and observational reconstruction; initial investigation, four-question review, and 2026 evidence update recorded.
-- Proposed Investigation 010: stellar feedback and the interstellar medium, including outflows, radiation, ionization, stellar winds, and supernovae. This is a research direction, not a fixed sequence for all sciences.
+- Investigation 010: stellar feedback and the interstellar medium, including protostellar outflows, stellar winds, radiation pressure, photoionization, H II regions, supernovae, compression, dispersal, chemical enrichment, and the inference chain; initial investigation, four-question review, and 2026 evidence review recorded.
+- Proposed Investigation 011: the multiphase interstellar medium, including hot plasma, warm gas, cold clouds, phase transitions, cooling, mixing, and matter cycling. This is a research direction, not a fixed sequence for all sciences.
 
 ## Continuity principles
 
