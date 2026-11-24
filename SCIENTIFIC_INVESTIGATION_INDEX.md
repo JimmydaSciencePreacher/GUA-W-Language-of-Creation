@@ -35,10 +35,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [027](investigations/027-OBSERVATION-INFERENCE-AND-THE-PROBLEM-OF-IDENTIFIABILITY.md) | Observation, Inference, and the Problem of Identifiability | Inverse-problem theory, mathematical modelling, system identification, observability, statistics, experimental design, observational astronomy | Initial investigation and four-question review recorded |
 
 | [028](investigations/028-INDEPENDENT-WITNESSES-SHARED-ASSUMPTIONS-AND-CORRELATED-EVIDENCE.md) | Independent Witnesses, Shared Assumptions, and Correlated Evidence | Statistical dependence, causal graphical models, measurement science, Bayesian evidence integration, data provenance, experimental design, gravitational-wave astronomy, research synthesis | Initial investigation and four-question review recorded |
+| [029](investigations/029-CIRCULAR-VALIDATION-DATA-LEAKAGE-AND-INDEPENDENT-TESTING.md) | Circular Validation, Data Leakage, and the Difference Between Learning a Pattern and Independently Testing It | Machine learning evaluation, statistical learning theory, experimental design, data provenance, benchmark construction, large-language-model evaluation, research methodology | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-Investigation 028 raises a possible next direction: circular validation, data leakage, and the difference between learning a pattern and independently testing it—when a model is trained, tuned, or evaluated using information that has already influenced its construction, what evidence remains genuinely independent for testing its claims? This is a possible lead, not a predetermined assignment.
+Investigation 029 raises a possible next direction: distribution shift, generalization, and the difference between a stable pattern and a changing environment—when the conditions that produced the training evidence change, which learned relationships remain reliable, which fail, and what evidence is required to recognize the difference? This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
