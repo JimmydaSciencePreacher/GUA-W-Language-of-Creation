@@ -22,12 +22,13 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [014](investigations/014-COSMIC-RAY-TRANSPORT-MAGNETIZED-INTERSTELLAR-MEDIUM-PROPAGATION-SCATTERING-DIFFUSION-ENERGY-LOSS.md) | Cosmic-Ray Transport in the Magnetized Interstellar Medium: Propagation, Scattering, Diffusion, and Energy Loss | Astroparticle physics, plasma astrophysics, MHD, gamma-ray astronomy | Initial investigation and four-question review recorded |
 | [015](investigations/015-COSMIC-RAY-IONIZATION-HEATING-CHEMISTRY-AND-MOLECULAR-CLOUD-EVOLUTION.md) | Cosmic-Ray Influence on Molecular Clouds: Ionization, Heating, Chemistry, and Cloud Evolution | Astrochemistry, molecular-cloud physics, cosmic-ray physics, star formation | Initial investigation and four-question review recorded |
 | [016](investigations/016-COSMIC-RAY-IONIZATION-MAGNETIC-COUPLING-AND-AMBIPOLAR-DIFFUSION-IN-MOLECULAR-CLOUDS.md) | Cosmic-Ray Ionization, Magnetic Coupling, and Ambipolar Diffusion in Molecular Clouds | Molecular-cloud physics, non-ideal MHD, astrochemistry, star formation | Initial investigation and four-question review recorded |
+| [017](investigations/017-MAGNETIC-FIELD-FILAMENT-ALIGNMENT-RELATIVE-ORIENTATION-STATISTICS-PROJECTION-AND-OBSERVATIONAL-LIMITS.md) | Magnetic-Field and Filament Alignment: Relative-Orientation Statistics, Projection, and Observational Limits | Molecular-cloud astrophysics, MHD, dust polarimetry, radio and submillimetre astronomy, statistics | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**017 — Molecular-Cloud Structure Formation: Magnetic Fields, Turbulence, Gravity, and Filamentary Organization.**
+**018 — Reconstructing Three-Dimensional Magnetic-Field and Gas Structure: Dust Polarization, Zeeman Splitting, Starlight Polarization, and Molecular-Line Kinematics.**
 
-This proposed investigation will examine how gravity, magnetic fields, turbulence, and gas flows jointly shape filaments and dense cores, and how observations distinguish competing routes to structure formation. It will not presume that one mechanism acts alone. This is a research direction, not a fixed sequence; other evidence may redirect the inquiry.
+This proposed investigation will examine the complementary information and limitations of these measurement methods, and whether combining them reduces projection and line-of-sight degeneracies. It will not assume that any single method or their combination produces a complete three-dimensional reconstruction. This is a research direction, not a fixed sequence; other evidence may redirect the inquiry.
 
 ## Indexing standard
 
