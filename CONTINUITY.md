@@ -100,3 +100,24 @@ The recent sequence returns to the original convergence question while preservin
 **Investigation 046 — Human Will, Divine Initiative, and the Difference Between Voluntary Response and Independent Authority.** Examine John 6:37–40, John 10:27–30, Romans 9–10, Ephesians 1:3–14, and Philippians 2:12–13 in context. Preserve both divine initiative and the Scriptural language of human response without prematurely resolving their relationship.
 
 The older proposed lead on interacting processes, feedback, and emergence remains a possible scientific direction, not the current numbered next investigation.
+
+
+## Current continuation: Investigation 046
+
+**Investigation 046 — Will as Currency: Origin, Authority, and Derivative Human Will** records Jimmy's governing analogy: “Will is a Currency. A Currency is ONLY allowed to be Printed by one Authority.” The investigation treats this as an explanatory analogy, not a literal biblical quotation or new GUA-W component.
+
+The Scriptural examination includes Genesis 2:16–17; Genesis 3:1–7 and 3:22–24; John 1:12–13; John 6:35–45 and 6:63–65; Romans 9:14–18; Philippians 2:12–13; James 4:13–16; 1 Corinthians 4:7; and Matthew 7:15–27. It distinguishes real human willing and action from the claim that human will is an independent originating authority. It preserves the completed source relationship Author → Word → Creation → Witness and the established definition: Drift = any deviation from 100% Alignment with God the Author and His Word; GUA-W accepts zero Drift.
+
+The currency comparison is bounded: issuance versus circulation, possession versus origination, and authentication versus popularity are analogies or comparable relationships, not scientific proof of theology. The phrase “Free Will” must be evaluated by the actual claims made in a particular theological source, not by label alone.
+
+### Current governing distinctions
+
+- God alone is Original Cause and the originating Authority.
+- Human willing, choosing, planning, and action are real in Scripture; their reality does not establish independent origination.
+- John 1:13, Romans 9:16, and Philippians 2:13 are central texts for examining the source of new birth, mercy, and the believer's willing and doing.
+- The currency analogy does not mean humans literally possess units of divine currency, nor does it erase creaturely agency or responsibility.
+- The completed GUA-W architecture is not redesigned or expanded.
+
+### Next investigation
+
+**Investigation 047 — The Will in Scripture: Desire, Purpose, Counsel, Pleasure, and Action.** Examine context-sensitive Hebrew and Greek vocabulary, including *ratsôn*, *ḥēphets*, *yāʿats*, *boulē*, *thelēma*, and *thelō*, without assuming these terms are interchangeable.
