@@ -47,7 +47,8 @@ The shared vocabulary functions as an investigative grammar for comparing relati
 - Investigation 021: expected information gain, model discrimination, complementary observations, adaptive observing, instrument limitations, and experimental design for distinguishing competing magnetic-field reconstructions; initial investigation and four-question review recorded.
 - Investigation 022: conditional independence, covariance, shared systematic errors, overlapping information, complementary magnetic-field tracers, joint inference, and evidence fusion; initial investigation and four-question review recorded.
 - Investigation 023: model misspecification, omitted physical and latent variables, likelihood and prior inadequacy, residual analysis, posterior predictive checks, out-of-sample prediction, model expansion, and magnetic-field reconstruction examples; initial investigation and four-question review recorded.
-- Proposed next lead: examine falsifiability, model discrimination, and critical-test design—what observation would count against a favored reconstruction, and how competing explanations can be made to risk different outcomes. This is a possible direction, not a fixed assignment.
+- Investigation 024: empirical testability, risky predictions, Popper's falsifiability, auxiliary assumptions, severe testing, predictive model discrimination, pre-specification, critical-test design, and magnetic-field reconstruction examples; initial investigation and four-question review recorded.
+- Proposed next lead: examine observational selection effects, detection bias, and the missing-evidence problem—how instruments, thresholds, sample construction, and survey coverage shape what enters the evidence, and what can legitimately be concluded from a non-detection. This is a possible direction, not a fixed assignment.
 
 ## Continuity principles
 
