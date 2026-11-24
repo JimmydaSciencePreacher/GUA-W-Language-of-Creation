@@ -9,16 +9,17 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [001](investigations/001-HYDROGEN-SPECTRAL-LINES-ATOMIC-ENERGY-LEVELS.md) | Hydrogen's Spectral Lines: Atomic Energy Levels Made Observable | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Four-question review complete |
 | [002](investigations/002-HELIUM-ATOMIC-SPECTRA-SECOND-ELECTRON.md) | Helium's Atomic Spectra: The Effect of a Second Electron | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Initial investigation and four-question review recorded |
 | [003](investigations/003-LITHIUM-ATOMIC-SPECTRUM-THREE-ELECTRONS.md) | Lithium's Atomic Spectrum: Three Electrons, Shell Structure, and the Limits of the Helium Comparison | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Initial investigation and four-question review recorded |
+| [004](investigations/004-READING-STELLAR-LIGHT-ATMOSPHERES-AND-SPECTRA.md) | Reading Stellar Light: Atomic Spectra, Stellar Atmospheres, and the Limits of Remote Observation | Astrophysics, stellar spectroscopy, radiative transfer, observational astronomy | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**004 — Reading Stellar Light: Atomic Spectra, Stellar Atmospheres, and the Limits of Remote Observation.**
+**005 — The Interstellar Medium: Absorption, Dust, Reddening, and the Journey of Starlight.**
 
-This investigation will examine how astronomers use spectral lines—including lines associated with hydrogen, helium, and lithium—to infer the composition and physical conditions of stars. It will distinguish atomic transition data from the additional physics of stellar atmospheres, including excitation, ionization, line formation, radiative transfer, optical depth, and instrumental effects.
+This investigation will examine how gas and dust between a star and observer alter received light. It will distinguish stellar-atmosphere features from interstellar absorption lines, dust extinction and reddening, scattering, Doppler components from intervening clouds, and instrumental effects.
 
-The next study will not assume that a line's presence or strength maps directly to elemental abundance. It will ask what can be inferred, under what assumptions, and with what uncertainty.
+The central question is how astronomers identify which features originate in the star, which arise along the line of sight, and what uncertainty remains when multiple sources contribute to one observed spectrum.
 
-This direction emerged from the atomic investigations but moves into astrophysics. It is a proposed research direction, not a fixed sequence for all sciences. Other observations may redirect the research.
+This direction emerged from Investigation 004. It is a proposed research direction, not a fixed sequence for all sciences. Other observations may redirect the research.
 
 ## Indexing standard
 
