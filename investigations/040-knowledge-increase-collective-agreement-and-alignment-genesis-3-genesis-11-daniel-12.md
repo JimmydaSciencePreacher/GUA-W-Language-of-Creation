@@ -62,23 +62,39 @@ The UBS translation commentary notes several possible interpretations, including
 
 ### 3.2 "Knowledge shall be increased"
 
-The traditional Hebrew text supports the KJV wording. However, interpreters disagree about the kind of knowledge intended:
-- understanding of Daniel's prophecy as the time of fulfillment approaches;
-- knowledge gained through diligent searching;
-- broader increase in knowledge;
+The traditional Hebrew text supports the KJV wording. The Hebrew noun is *hadda'at* ("the knowledge"), with the definite article. The wording itself must be retained in a KJV-based investigation. Interpreters disagree about the scope and referent of this knowledge.
+
+The principal readings include:
+- increased understanding of Daniel's sealed prophecy as the appointed time approaches;
+- knowledge gained through diligent searching or examination;
+- a broader increase in human knowledge, learning, or discovery;
 - or, in some textual and translation traditions, a different reading such as "evil shall increase."
 
-Bediako and Dawé argue that Daniel 12:4 concerns increased understanding of the prophecy rather than scientific or technological knowledge in general. Their case emphasizes the immediate context, the sealed book, and Daniel 12:8–10. Other interpreters take the phrase differently.
+Bediako and Dawé argue that the phrase concerns understanding Daniel's prophecy rather than scientific or technological knowledge in general. They appeal to the sealed book, the definite form of "knowledge," and Daniel 12:8–10. Their article also surveys broader interpretations, including general knowledge and scientific learning. The UBS translation commentary preserves the traditional "knowledge" reading while acknowledging uncertainty about the phrase's meaning. The range of interpretation is real and must remain visible.
 
-**Boundary:** The KJV says "knowledge shall be increased." That wording must be preserved when examining the KJV. But the verse's immediate referent and scope should not be assumed to be all human scientific knowledge, technological progress, or information growth.
+### 3.3 The two horizons: both must be investigated
 
-### 3.3 The sealed book matters
+This investigation will not force an either/or choice between prophetic understanding and broader human knowledge. Both are retained as investigative horizons, with their evidential status distinguished.
+
+**Horizon A — the immediate prophetic horizon**
+
+The immediate literary context places the increase of knowledge beside Daniel's sealed words, the time of the end, Daniel's question in verse 8, the renewed sealing in verse 9, and the wise who understand in verse 10. This gives strong contextual grounds for examining increased understanding of the prophecy itself.
+
+**Horizon B — the broader knowledge horizon**
+
+The traditional KJV wording can also be examined in relation to the wider question of human knowledge, learning, discovery, and accumulated understanding. A number of interpreters have read the verse in this broader way, although that reading is disputed and should not be presented as the uncontested original referent. The history of reception includes later applications to intellectual and scientific progress; those applications are part of the verse's interpretive history, not proof of its original meaning.
+
+**The GUA-W investigative position:** Both horizons remain in the study. The prophetic horizon is anchored in the immediate context. The broader human-knowledge horizon is examined as a possible wider scope or later application, without claiming that Daniel 12:4 explicitly predicts modern science, transportation, the internet, or artificial intelligence.
+
+The two horizons may be related, but their relationship is itself a question—not a conclusion to be smuggled into the text.
+
+### 3.4 The sealed book matters
 
 Daniel 12:4 does not begin with a free-standing prediction about knowledge. It begins with a command to Daniel concerning the words and the book, and it places that command in relation to "the time of the end."
 
 Daniel 12:8–10 continues the issue of understanding. Daniel asks what the outcome will be; the answer refers again to the words being closed and sealed, and distinguishes the understanding of the wise from the failure of the wicked to understand.
 
-Therefore a text-led reading must keep the book, its prophecy, the appointed time, and the later distinction between understanding and lack of understanding in view.
+Therefore a text-led reading must keep the book, its prophecy, the appointed time, and the later distinction between understanding and lack of understanding in view. At the same time, the wider knowledge question is not discarded; it is examined separately and then compared with the prophetic horizon.
 
 ## 4. A documented literary connection: Eden and Babel
 
@@ -305,6 +321,8 @@ The three passages can be examined together through the questions of knowledge, 
 
 ### Unresolved
 
+- How do the prophetic-understanding horizon and the broader human-knowledge horizon relate in Daniel 12:4?
+- Does the immediate context establish the prophetic horizon as the primary referent while permitting a broader application, or does the Hebrew and literary context support a wider original scope?
 - What precisely is the scope of "knowledge" in Daniel 12:4?
 - Does "run to and fro" refer primarily to searching the prophecy, movement, or another activity?
 - How should Daniel 12:4 be read alongside Daniel 12:8–10 and the book's wider apocalyptic context?
@@ -325,7 +343,7 @@ The three passages can be examined together through the questions of knowledge, 
 ### Biblical scholarship and translation
 
 2. Péter-Contesse, René, and John Ellington. *A Handbook on Daniel*. UBS Helps for Translators. Commentary on Daniel 12:4. https://tips.translation.bible/story/translation-commentary-on-daniel-124/. Discusses translation options for "run to and fro" and "knowledge shall increase," including the contextual uncertainty.
-3. Bediako, Daniel K., and Samson Dakio Dawé. (2012). "Knowledge Shall Increase: An Interpretation of Daniel 12:4." *Valley View University Journal of Theology* 2. https://www.academia.edu/42639329/_KNOWLEDGE_SHALL_INCREASE_AN_INTERPRETATION_OF_DANIEL_12_4. Argues that the knowledge concerns understanding Daniel's prophecy rather than scientific knowledge in general. This is one scholarly interpretation, not a consensus claim.
+3. Bediako, Daniel K., and Samson Dakio Dawé. (2012). "Knowledge Shall Increase: An Interpretation of Daniel 12:4." *Valley View University Journal of Theology* 2. https://www.academia.edu/42639329/_KNOWLEDGE_SHALL_INCREASE_AN_INTERPRETATION_OF_DANIEL_12_4. Argues that the knowledge concerns understanding Daniel's prophecy rather than scientific knowledge in general, and surveys alternative readings. This is one scholarly interpretation, not a consensus claim.
 4. Van Ee, Joshua John. (2013). *Death and the Garden: An Examination of Original Immortality, Vegetarianism, and Animal Peace in the Hebrew Bible and Mesopotamia*. PhD dissertation, University of California, San Diego. https://escholarship.org/uc/item/0qm3n0mt. Discusses the literary parallel between Genesis 3:22 and Genesis 11:6, including the shared "Behold ... and now" construction.
 5. "Knowledge Will Be Manifold": Daniel 12.4 and the Idea of Intellectual Progress in the Middle Ages. (2014). *Speculum* 89(2). https://www.journals.uchicago.edu/doi/pdf/10.1017/S0038713413004545. Examines the history of interpretation and later uses of Daniel 12:4, including its association with intellectual progress.
 6. Cambridge Bible for Schools and Colleges, commentary on Daniel 12:4, reproduced at https://lemma.gebible.app/v/daniel/12/4. Discusses the immediate context and cautions against Bacon's later scientific-progress application as an explanation of the original verse.
@@ -352,3 +370,12 @@ The question is not whether agreement is useful. It is what agreement can legiti
 ---
 
 **Knowledge may increase. Coordination may increase. Agreement may increase. None of those increases, by itself, changes the identity of the Author.**
+
+
+## 18. Clarification recorded — both horizons retained
+
+The investigation explicitly retains **both** the prophetic-understanding horizon and the broader human-knowledge horizon. The first is closely tied to Daniel 12:4–10's immediate context. The second remains a legitimate subject of historical interpretation and comparative inquiry, but it is not asserted as the uncontested original meaning.
+
+The working rule is: **Do not discard either horizon; do not confuse their evidential status.** Investigate each, then examine whether and how they relate.
+
+This clarification does not alter the KJV wording, the Triple Constraint, the GUA-W source hierarchy, or the established definition of Drift.
