@@ -24,7 +24,8 @@ Investigate and describe scientific observations using a shared foundational voc
 - Investigation 001: hydrogen spectral lines and atomic energy levels; initial scientific account and four-question review recorded.
 - Investigation 002: neutral helium atomic spectra, electron–electron interaction, singlet and triplet states, and the effect of a second electron; four-question review recorded.
 - Investigation 003: neutral lithium's three-electron structure, core–valence description, fine-structure doublet, and four-question review recorded.
-- Proposed Investigation 004: use of atomic spectra to infer stellar composition and physical conditions, with attention to stellar-atmosphere physics and remote measurement.
+- Investigation 004: stellar spectral lines, atmospheric structure, excitation and ionization, optical depth, radiative transfer, and the remote-observation chain; four-question review recorded.
+- Proposed Investigation 005: interstellar gas and dust, absorption, reddening, scattering, and distinguishing stellar features from line-of-sight contributions.
 - The proposed next subject is a research direction, not a fixed sequence for all sciences.
 
 ## Continuity principles
