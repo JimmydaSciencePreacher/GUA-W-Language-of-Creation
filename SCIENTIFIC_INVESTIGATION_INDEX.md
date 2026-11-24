@@ -56,9 +56,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | [046](investigations/046-WILL-AS-CURRENCY-ORIGIN-AUTHORITY-AND-DERIVATIVE-HUMAN-WILL.md) | Will as Currency: Origin, Authority, and Derivative Human Will | Biblical studies, theology, Hebrew and Greek textual interpretation, philosophy of agency, moral theology, epistemology, economics as a bounded analogy, systems theory, and AI evaluation | Initial text-led investigation; examines divine initiative, derivative human willing, and the currency analogy |
 
+| [047](investigations/047-FREEWILL-GETTING-VERSUS-FREEWILL-OFFERING.md) | Freewill Getting versus Freewill Offering: Direction, Source, and the Will Presented to God | Biblical studies, Hebrew and Greek lexical study, theology, philosophy of agency, sacrificial practice, gift and reciprocity studies, and epistemology | Initial text-led investigation; distinguishes taking/claiming from voluntary presentation and preserves the source of living water |
+
 ## Next proposed investigation
 
-Investigation 047 examines the Scriptural vocabulary of will, desire, purpose, counsel, pleasure, and action, including context-sensitive uses of Hebrew *ratsôn*, *ḥēphets*, *yāʿats* and Greek *boulē*, *thelēma*, *thelō*. It will distinguish lexical meaning, grammatical form, context, and theological inference.
+Investigation 048 examines the offering and the giver: what is received, what is presented, and who remains the Source. It will study 1 Chronicles 29:14, Exodus 35:20–29, Psalm 119:108, Romans 12:1–2, 2 Corinthians 8:1–5 and 9:6–8, Philippians 2:12–13, and John 4:7–14, distinguishing gift, giver, offering, recipient, source, and response.
 
 ## Indexing standard
 
