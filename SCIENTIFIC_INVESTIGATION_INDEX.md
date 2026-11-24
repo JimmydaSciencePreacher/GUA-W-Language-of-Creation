@@ -6,7 +6,13 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | Number | Title | Primary disciplines | Status |
 |---|---|---|---|
-| [001](investigations/001-HYDROGEN-SPECTRAL-LINES-ATOMIC-ENERGY-LEVELS.md) | Hydrogen's Spectral Lines: Atomic Energy Levels Made Observable | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Initial investigation |
+| [001](investigations/001-HYDROGEN-SPECTRAL-LINES-ATOMIC-ENERGY-LEVELS.md) | Hydrogen's Spectral Lines: Atomic Energy Levels Made Observable | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Four-question review complete; next investigation proposed |
+
+## Next proposed investigation
+
+**002 — Helium's Atomic Spectra and the Effect of a Second Electron.**
+
+This direction emerged from the hydrogen review. It will compare the one-electron hydrogen atom with neutral helium, while distinguishing helium ions and preserving the scientific differences between their structures and mechanisms. The sequence remains open to other scientific directions as evidence and questions develop.
 
 ## Indexing standard
 
