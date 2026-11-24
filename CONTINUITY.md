@@ -37,7 +37,8 @@ Investigate and describe scientific observations using a shared foundational voc
 - Investigation 014: cosmic-ray transport in the magnetized interstellar medium, including propagation, scattering, streaming, diffusion, anisotropic transport, energy losses, and observational inference; initial investigation and four-question review recorded.
 - Investigation 015: cosmic-ray effects on molecular clouds, including ionization, heating, ion–molecule chemistry, cosmic-ray-induced ultraviolet chemistry, attenuation, chemical tracers, and cloud evolution; initial investigation and four-question review recorded.
 - Investigation 016: cosmic-ray ionization, magnetic coupling, ambipolar diffusion, charged-neutral drift, non-ideal MHD, magnetic-flux transport, and dense-core contraction; initial investigation and four-question review recorded.
-- Proposed Investigation 017: molecular-cloud structure formation through magnetic fields, turbulence, gravity, and filamentary organization. This is a research direction, not a fixed sequence for all sciences.
+- Investigation 017: magnetic-field and filament alignment, relative-orientation statistics (HRO and PRS), column-density dependence, tracer optical depth, projection, line-of-sight integration, and observational limits; initial investigation and four-question review recorded.
+- Proposed Investigation 018: reconstructing three-dimensional magnetic-field and gas structure by combining dust polarization, Zeeman splitting, starlight polarization, and molecular-line kinematics. This is a research direction, not a fixed sequence for all sciences.
 
 ## Continuity principles
 
