@@ -179,3 +179,16 @@ Important findings: John 5:21 attributes quickening to Father and Son; John 6:63
 ### Next investigation
 
 **Investigation 051 — The Name, the Word, and the Work: Father, Son, Holy Ghost, and the Authority to Quicken.** Examine Matthew 28:18–20; John 5:19–29; John 6:63–65; John 10:25–30; John 14:6–26, 15:26, and 16:7–15; Acts 2:32–39 and 4:10–12; Philippians 2:5–11; Colossians 1:15–20; and Hebrews 1:1–3. Distinguish singular “name” from the three named Persons and the various functions of “name” in context.
+
+
+## Current continuation: Investigation 051 — The Unchanging God: Distinct Operations, the Name, the Word, and the Work
+
+Jimmy corrected the prior question: **“Are you asking If God's ‘Identity’ Changed when he was performing different things? I should hope not.”** The question was poorly framed and is corrected. Governing constraint: **ONE GOD. UNCHANGING IDENTITY. DISTINCT OPERATIONS.** A difference in what God does does not mean God becomes a different God. Do not infer identity change from a change of operation.
+
+Primary texts: Malachi 3:6 (the LORD changes not); James 1:17 (no variableness or shadow of turning); John 1:1–18 (Word was God and Word made flesh); John 5:19–29 (Father and Son quicken); John 6:35–65 (Spirit quickens; Father draws and grants); Matthew 28:18–20 (singular “name” and Father, Son, Holy Ghost); John 14:16–26, 15:26, 16:13–15 (distinct relations and missions); Hebrews 13:8 (Jesus Christ the same); Luke 24:36–43 and John 20:19–29 (bodily resurrection); Romans 8:9–11 and 1 Corinthians 15:42–49 (Spirit and bodily redemption/resurrection).
+
+Findings: God’s identity does not change when He acts. Scripture records distinct relations and operations involving Father, Son, and Holy Ghost; John 5:21 attributes quickening to Father and Son, John 6:63 to the Spirit. Do not force exclusive duties where the texts show overlapping attribution. The incarnation and resurrection are real; the physical is not discarded. “Three expressions/forms and three duties” remains Jimmy's proposed explanatory language to define carefully against the text, not a direct quotation. GUA-W remains Author → Word → Creation → Witness; no layer or operation is added. Human will is not the originating cause of quickening.
+
+### Next investigation
+
+**Investigation 052 — Before the World Was: The Word, the Glory, and the Unchanged Identity of God.** Examine John 1:1–18; John 17:1–5; John 8:56–58; John 10:25–30; Hebrews 1:1–3; Colossians 1:15–20; Philippians 2:5–11; and Malachi 3:6. Distinguish pre-existence, incarnation, relation, mission, and operation without treating incarnation as a change of divine identity.
