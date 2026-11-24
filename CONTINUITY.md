@@ -166,3 +166,16 @@ The completed GUA-W relationship Author → Word → Creation → Witness remain
 ### Next investigation
 
 **Investigation 050 — The Dead Hear His Voice: Quickening, Hearing, Coming, and Believing in John 5 and John 6.** Examine John 5:19–29; John 6:35–45 and 60–65; John 10:25–30; John 1:12–13; Romans 8:28–30; 1 Corinthians 15:45; Ephesians 2:1–10; and 1 Peter 1:3–5 and 1:23. Preserve sequence, grammatical subject, and the distinction between physical hearing and spiritual quickening.
+
+
+## Current continuation: Investigation 050 — One God, Father, Son, Holy Ghost; Spiritual, Physical, and Return
+
+Jimmy's clarification: **“There is ONE GOD who is ‘expressed’ in three forms to perform three ‘Duties’ (This IS a Spiritual to Physical and back again situation that we have here.”** Investigation 050 records this as Jimmy's proposed explanatory model and tests it against Scripture without silently equating “three forms” with the historic Nicene formulation. It preserves one God and the distinct relations Scripture attributes to Father, Son, and Holy Ghost. The Nicene distinction (one God in three Persons, not three temporary masks) is included as a doctrinal comparison, not imposed as Jimmy's intended definition.
+
+Primary texts: John 1:1–18 (Word was God; Word made flesh); John 5:19–29 (Father and Son quicken); John 6:35–65 (Father draws and grants; Spirit quickens); John 14:1–26, 15:26, and 16:7–15 (Father, Son, and Comforter in distinct relations and missions); John 20:19–29 and Luke 24:36–43 (bodily resurrection); Galatians 4:4; Philippians 2:5–8; Hebrews 2:14–17; Romans 8:9–23 (Spirit and future quickening of mortal bodies); 1 Corinthians 15:42–49 (spiritual body remains a body); and 1 Timothy 3:16.
+
+Important findings: John 5:21 attributes quickening to Father and Son; John 6:63 says the Spirit quickens; Romans 4:17 and 1 Timothy 6:13 speak of God quickening. Preserve grammatical subjects rather than forcing an exclusive three-duty chart. The Word's incarnation is real flesh, and Christ's resurrection is bodily; the physical is not discarded. “Spiritual → Physical → Spiritual” is Jimmy's provisional shorthand and is refined as Word made flesh → bodily death → bodily resurrection/glorification → Spirit-given life and promised bodily redemption. No GUA-W layer is added; Author → Word → Creation → Witness remains unchanged. Human will is not the originating cause of quickening.
+
+### Next investigation
+
+**Investigation 051 — The Name, the Word, and the Work: Father, Son, Holy Ghost, and the Authority to Quicken.** Examine Matthew 28:18–20; John 5:19–29; John 6:63–65; John 10:25–30; John 14:6–26, 15:26, and 16:7–15; Acts 2:32–39 and 4:10–12; Philippians 2:5–11; Colossians 1:15–20; and Hebrews 1:1–3. Distinguish singular “name” from the three named Persons and the various functions of “name” in context.
