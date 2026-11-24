@@ -60,9 +60,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | [048](investigations/048-THE-WOLF-IN-THE-CHURCH-COUNTERFEIT-ORIGIN-AND-THE-ILLUSION-OF-OFFERING.md) | The Wolf in the Church: Counterfeit Origin and the Illusion of Offering | Biblical studies, pastoral theology, Hebrew and Greek textual interpretation, ecclesiology, rhetoric, social cognition, institutional analysis, epistemology, and AI evaluation | Initial text-led investigation; examines false source attribution, deceptive religious teaching, and the flock's protection |
 
+| [049](investigations/049-QUICKENING-THE-AUTHOR-OF-LIFE-AND-THE-NON-CAUSATIVE-HUMAN-WILL.md) | Quickening: The Author of Life and the Non-Causative Human Will | Biblical studies, New Testament Greek, theology, doctrine of salvation, philosophy of causation and agency, epistemology, and AI evaluation | Initial text-led investigation; distinguishes divine quickening from human response and preserves the grammatical subjects of the passages |
+
 ## Next proposed investigation
 
-Investigation 049 examines the counterfeit offering: grace, boasting, human response, and the claim of origin. It will compare Ephesians 2:1–10, 1 Corinthians 4:6–7, Romans 3:24–27, Romans 9:14–18 and 10:8–13, John 6:35–45 and 6:63–65, Philippians 2:12–13, and 1 Chronicles 29:14. It will distinguish voluntary response, instrumentality, condition, occasion, merit, efficient cause, and originating authority, while comparing actual theological primary sources rather than caricatures.
+Investigation 050 examines the dead hearing the Son's voice: quickening, hearing, coming, and believing in John 5 and John 6. It will compare John 5:19–29; John 6:35–45 and 60–65; John 10:25–30; John 1:12–13; Romans 8:28–30; 1 Corinthians 15:45; Ephesians 2:1–10; and 1 Peter 1:3–5 and 1:23. It will preserve sequence and grammatical subject without equating physical hearing with spiritual quickening or making human willingness the originating cause.
 
 ## Indexing standard
 
