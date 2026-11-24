@@ -19,12 +19,14 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [010](investigations/010-STELLAR-FEEDBACK-AND-THE-INTERSTELLAR-MEDIUM-OUTFLOW-RADIATION-IONIZATION-WINDS-AND-SUPERNOVAE.md) | Stellar Feedback and the Interstellar Medium: Outflow, Radiation, Ionization, Winds, and Supernovae | Stellar astrophysics, ISM physics, radiation hydrodynamics, plasma physics, molecular-cloud physics | Initial investigation, four-question review, and 2026 evidence review recorded |
 | [011](investigations/011-MULTIPHASE-INTERSTELLAR-MEDIUM-HOT-PLASMA-WARM-GAS-COLD-CLOUDS-PHASE-TRANSITIONS-AND-MATTER-CYCLING.md) | The Multiphase Interstellar Medium: Hot Plasma, Warm Gas, Cold Clouds, Phase Transitions, and the Cycling of Matter | ISM physics, plasma physics, thermodynamics, fluid dynamics, magnetohydrodynamics, astrochemistry | Initial investigation, four-question review, and 2026 review literature recorded |
 | [013](investigations/013-MAGNETIC-FIELDS-INTERSTELLAR-MEDIUM-GEOMETRY-POLARIZATION-TURBULENCE-AND-MATTER.md) | Magnetic Fields in the Interstellar Medium: Geometry, Polarization, Turbulence, and the Movement of Matter | ISM physics, astrophysical MHD, radio astronomy, polarimetry, plasma physics | Initial investigation and four-question review recorded |
+| [014](investigations/014-COSMIC-RAY-TRANSPORT-MAGNETIZED-INTERSTELLAR-MEDIUM-PROPAGATION-SCATTERING-DIFFUSION-ENERGY-LOSS.md) | Cosmic-Ray Transport in the Magnetized Interstellar Medium: Propagation, Scattering, Diffusion, and Energy Loss | Astroparticle physics, plasma astrophysics, MHD, gamma-ray astronomy | Initial investigation and four-question review recorded |
+| [015](investigations/015-COSMIC-RAY-IONIZATION-HEATING-CHEMISTRY-AND-MOLECULAR-CLOUD-EVOLUTION.md) | Cosmic-Ray Influence on Molecular Clouds: Ionization, Heating, Chemistry, and Cloud Evolution | Astrochemistry, molecular-cloud physics, cosmic-ray physics, star formation | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**014 — Cosmic-Ray Transport in the Magnetized Interstellar Medium: Propagation, Scattering, Diffusion, and Energy Loss.**
+**016 — Cosmic-Ray Ionization, Magnetic Coupling, and Ambipolar Diffusion in Molecular Clouds.**
 
-This proposed investigation will examine how cosmic rays propagate through magnetized interstellar environments, how turbulence and magnetic geometry affect transport, and how observations distinguish streaming, scattering, diffusion, and energy losses. It is a research direction, not a fixed sequence; other evidence may redirect the inquiry.
+This proposed investigation will examine how ionization affects charged-neutral coupling, magnetic-flux transport, ambipolar diffusion, and dense-core contraction. It will preserve the roles of gravity, turbulence, magnetic geometry, and time-dependent chemistry rather than treating ionization as a sole cause. This is a research direction, not a fixed sequence; other evidence may redirect the inquiry.
 
 ## Indexing standard
 
