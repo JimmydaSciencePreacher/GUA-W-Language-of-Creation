@@ -4,13 +4,13 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 ## Investigations
 
-*No investigations have yet been entered.*
-
-The first investigation will be numbered **001** and will begin from a clearly stated scientific question, with established scientific terminology and evidence retained alongside any GUA-W description.
+| Number | Title | Primary disciplines | Status |
+|---|---|---|---|
+| [001](investigations/001-HYDROGEN-SPECTRAL-LINES-ATOMIC-ENERGY-LEVELS.md) | Hydrogen's Spectral Lines: Atomic Energy Levels Made Observable | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Initial investigation |
 
 ## Indexing standard
 
-Each entry will identify:
+Each entry identifies:
 - investigation number and title;
 - primary scientific discipline(s);
 - central phenomenon or question;
