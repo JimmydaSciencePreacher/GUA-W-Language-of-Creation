@@ -8,6 +8,8 @@
 
 Investigate and describe scientific observations using a shared foundational vocabulary first recognized through Genesis 1–2, while preserving scientific terminology, evidence, methods, mechanisms, uncertainty, and competing explanations.
 
+The shared vocabulary functions as an investigative grammar for comparing relationships across domains. It does not assert that different domains use identical mechanisms. Each comparison must preserve the scientific account and classify the proposed connection as the same mechanism, a comparable relationship, an analogy, a surface resemblance, or unresolved.
+
 ## Starting documents
 
 - [README](README.md) — repository purpose and writing scope.
@@ -21,6 +23,7 @@ Investigate and describe scientific observations using a shared foundational voc
 - Foundational research method: established as a working method.
 - Four-Question Study Method: copied from the read-only source repository and integrated as a companion discipline.
 - Shared vocabulary: recorded as working definitions; open to refinement through evidence.
+- Cross-domain comparison discipline: common descriptive grammar is used to compare relationships without presuming identical mechanisms.
 - Investigation 001: hydrogen spectral lines and atomic energy levels; initial scientific account and four-question review recorded.
 - Investigation 002: neutral helium atomic spectra, electron–electron interaction, singlet and triplet states, and the effect of a second electron; four-question review recorded.
 - Investigation 003: neutral lithium's three-electron structure, core–valence description, fine-structure doublet, and four-question review recorded.
@@ -39,7 +42,8 @@ Investigate and describe scientific observations using a shared foundational voc
 - Investigation 016: cosmic-ray ionization, magnetic coupling, ambipolar diffusion, charged-neutral drift, non-ideal MHD, magnetic-flux transport, and dense-core contraction; initial investigation and four-question review recorded.
 - Investigation 017: magnetic-field and filament alignment, relative-orientation statistics (HRO and PRS), column-density dependence, tracer optical depth, projection, line-of-sight integration, and observational limits; initial investigation and four-question review recorded.
 - Investigation 018: complementary observational constraints on three-dimensional magnetic-field and gas structure using dust emission polarization, Zeeman splitting, starlight polarization with distance information, molecular-line kinematics, and Faraday rotation as an extension; initial investigation and four-question review recorded.
-- Proposed Investigation 019: testing three-dimensional magnetic-field reconstructions with synthetic observations, forward modeling, recovery tests, and independent validation. This is a research direction, not a fixed sequence for all sciences.
+- Investigation 019: testing 3D magnetic-field reconstructions through synthetic observations, forward modeling, recovery tests, competing configurations, instrumental realism, uncertainty, and independent validation; initial investigation and four-question review recorded. The record distinguishes a model that reproduces observations, a method that recovers known simulated properties, and a physical reconstruction that is independently constrained.
+- Proposed next lead: examine how priors, regularization, and underdetermined inverse problems shape the family of acceptable 3D reconstructions. This is not a fixed sequence.
 
 ## Continuity principles
 
@@ -51,3 +55,4 @@ Investigate and describe scientific observations using a shared foundational voc
 6. Preserve unresolved questions and counterexamples.
 7. Do not import findings or numbering from another repository as established results in this new sequence.
 8. Keep all repository writing within this repository's authorized scope.
+9. Use a common descriptive grammar to compare domains, but never use shared vocabulary to erase differences in mechanism, evidence, scale, or disciplinary meaning.
