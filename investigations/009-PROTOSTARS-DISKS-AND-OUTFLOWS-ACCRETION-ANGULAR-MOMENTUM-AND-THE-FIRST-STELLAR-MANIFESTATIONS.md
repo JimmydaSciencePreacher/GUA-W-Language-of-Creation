@@ -476,3 +476,31 @@ This is a proposed direction, not a fixed sequence. The evidence may redirect th
 ---
 
 **One Author. One originating Word. One Creation. Many witnesses.**
+
+
+## 24. Evidence update — 2026 observations and reviews
+
+This section adds recent literature located during the continuation of the investigation. These sources refine the evidence base; they do not turn a result from one protostar into a universal rule.
+
+### HOPS 358: resolved rotation in a protostellar disk wind
+
+A 2026 *Nature Communications* study reports high-resolution ALMA observations of the Class 0 protostar HOPS 358. The authors identify a rotating, nested molecular outflow traced by H2CO, SO, and CH3OH. The outflow preserves the disk's rotational sense and is aligned with the disk axis. Their model comparison constrains a magnetic lever arm of approximately 2.3 and a wind-launching region at roughly 10–18 au.
+
+The authors describe this as direct observational evidence for a magnetically launched disk wind in this particular system. The careful scope is important: the observed kinematics, interpreted with a stated wind model, support the MHD disk-wind explanation for HOPS 358. This does not demonstrate that every protostellar outflow has the same structure or that one mechanism dominates every disk.
+
+Source: **Direct evidence for magnetohydrodynamic disk winds driving rotating outflows in protostar HOPS 358** (2026), *Nature Communications*.  
+https://www.nature.com/articles/s41467-026-71142-3
+
+### JOYS+: a broader JWST survey of young protostellar outflows
+
+A 2026 *Astronomy & Astrophysics* JOYS+ study reports JWST/MIRI observations of a sample of single and multiple Class 0 and Class I protostars. It examines H2 wind and jet morphology, velocity and temperature structure, and mass outflow rates, together with ALMA CO maps.
+
+A survey across multiple systems is valuable because it can test whether features found in individual case studies recur across a sample. Its derived quantities still depend on line excitation, geometry, extinction, source multiplicity, and the adopted analysis.
+
+Source: Francis et al. (2026), **JOYS+: A JWST/MIRI survey of the evolution of H2 winds and jets from low-mass protostars**, *Astronomy & Astrophysics*, 711, A258.  
+https://doi.org/10.1051/0004-6361/202558772
+
+### Updated finding
+
+The 2026 HOPS 358 result strengthens the observational case that a rotating MHD disk wind can remove angular momentum in at least one well-resolved Class 0 system. The JOYS+ survey extends the observational comparison across a larger sample. Together they make the accretion–ejection relationship a stronger research focus, while preserving the distinction between a source-specific detection, a sample-level trend, and a universal claim.
+
