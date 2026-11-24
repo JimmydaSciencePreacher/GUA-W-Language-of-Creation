@@ -18,14 +18,13 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [009](investigations/009-PROTOSTARS-DISKS-AND-OUTFLOWS-ACCRETION-ANGULAR-MOMENTUM-AND-THE-FIRST-STELLAR-MANIFESTATIONS.md) | Protostars, Disks, and Outflows: Accretion, Angular Momentum, and the First Stellar Manifestations | Star-formation astrophysics, molecular astrophysics, radio and infrared astronomy, magnetohydrodynamics | Initial investigation, four-question review, and 2026 evidence update recorded |
 | [010](investigations/010-STELLAR-FEEDBACK-AND-THE-INTERSTELLAR-MEDIUM-OUTFLOW-RADIATION-IONIZATION-WINDS-AND-SUPERNOVAE.md) | Stellar Feedback and the Interstellar Medium: Outflow, Radiation, Ionization, Winds, and Supernovae | Stellar astrophysics, ISM physics, radiation hydrodynamics, plasma physics, molecular-cloud physics | Initial investigation, four-question review, and 2026 evidence review recorded |
 | [011](investigations/011-MULTIPHASE-INTERSTELLAR-MEDIUM-HOT-PLASMA-WARM-GAS-COLD-CLOUDS-PHASE-TRANSITIONS-AND-MATTER-CYCLING.md) | The Multiphase Interstellar Medium: Hot Plasma, Warm Gas, Cold Clouds, Phase Transitions, and the Cycling of Matter | ISM physics, plasma physics, thermodynamics, fluid dynamics, magnetohydrodynamics, astrochemistry | Initial investigation, four-question review, and 2026 review literature recorded |
+| [013](investigations/013-MAGNETIC-FIELDS-INTERSTELLAR-MEDIUM-GEOMETRY-POLARIZATION-TURBULENCE-AND-MATTER.md) | Magnetic Fields in the Interstellar Medium: Geometry, Polarization, Turbulence, and the Movement of Matter | ISM physics, astrophysical MHD, radio astronomy, polarimetry, plasma physics | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**013 — Magnetic Fields in the Interstellar Medium: Field Geometry, Polarization, Turbulence, Tension, and the Movement of Matter.**
+**014 — Cosmic-Ray Transport in the Magnetized Interstellar Medium: Propagation, Scattering, Diffusion, and Energy Loss.**
 
-This proposed investigation will examine how magnetic fields participate in the structure and dynamics of interstellar gas, and how observations distinguish field orientation, field strength, magnetic stress, and magnetized turbulence.
-
-The question emerged from Investigation 011 and remains a proposed direction, not a fixed sequence for all sciences. Other observations may redirect the research.
+This proposed investigation will examine how cosmic rays propagate through magnetized interstellar environments, how turbulence and magnetic geometry affect transport, and how observations distinguish streaming, scattering, diffusion, and energy losses. It is a research direction, not a fixed sequence; other evidence may redirect the inquiry.
 
 ## Indexing standard
 
