@@ -62,9 +62,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | [049](investigations/049-QUICKENING-THE-AUTHOR-OF-LIFE-AND-THE-NON-CAUSATIVE-HUMAN-WILL.md) | Quickening: The Author of Life and the Non-Causative Human Will | Biblical studies, New Testament Greek, theology, doctrine of salvation, philosophy of causation and agency, epistemology, and AI evaluation | Initial text-led investigation; distinguishes divine quickening from human response and preserves the grammatical subjects of the passages |
 
+| [050](investigations/050-ONE-GOD-FATHER-SON-AND-HOLY-GHOST-SPIRITUAL-PHYSICAL-AND-RETURN.md) | One God: Father, Son, and Holy Ghost; Spiritual, Physical, and Return | Biblical studies, Johannine literature, New Testament Greek, theology, Christology, pneumatology, incarnation and resurrection studies, philosophy of causation, and epistemology | Initial text-led investigation; examines divine unity and distinction, incarnation, quickening, and bodily resurrection |
+
 ## Next proposed investigation
 
-Investigation 050 examines the dead hearing the Son's voice: quickening, hearing, coming, and believing in John 5 and John 6. It will compare John 5:19–29; John 6:35–45 and 60–65; John 10:25–30; John 1:12–13; Romans 8:28–30; 1 Corinthians 15:45; Ephesians 2:1–10; and 1 Peter 1:3–5 and 1:23. It will preserve sequence and grammatical subject without equating physical hearing with spiritual quickening or making human willingness the originating cause.
+Investigation 051 examines the Name, the Word, and the Work: Father, Son, Holy Ghost, and the authority to quicken. It will compare Matthew 28:18–20; John 5:19–29; John 6:63–65; John 10:25–30; John 14:6–26, 15:26, and 16:7–15; Acts 2:32–39 and 4:10–12; Philippians 2:5–11; Colossians 1:15–20; and Hebrews 1:1–3. It will distinguish the singular “name” from the three named Persons and avoid assuming every occurrence of “name” has the same function.
 
 ## Indexing standard
 
