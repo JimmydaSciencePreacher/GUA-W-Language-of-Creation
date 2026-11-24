@@ -88,6 +88,8 @@ For each proposed cross-disciplinary connection, state whether it is:
 
 A shared word does not prove a shared process. Similar patterns do not establish common causation. Differences are findings and must be preserved.
 
+**Common descriptive grammar principle:** Use the shared vocabulary as a disciplined means of asking comparable questions across domains—not as a claim that the domains share one mechanism. The grammar may help identify components, relationships, conditions, constraints, operations, manifestations, and witnesses. Each field retains its own definitions, evidence, scales, and causal explanations. Let the observed phenomenon determine which terms are useful; leave a term unused when it does not clarify the evidence. The purpose of comparison is to discover what is genuinely common, what is only relationally comparable, and what remains distinct or unresolved.
+
 ### 7. Relationship to Genesis 1–2 and GUA-W
 
 Genesis 1–2 KJV is the scriptural origin of the foundational vocabulary used in this project. The repository investigates scientific observations through that vocabulary while keeping distinct what the biblical text says, what science observes, and what the investigator proposes as a relationship between them.
@@ -110,7 +112,6 @@ Each new investigation should contain:
 10. What is established, what is inferred, and what remains unknown.
 11. Sources.
 12. The next open question.
-
 
 ### 10. Apply the Four-Question Study Method
 
