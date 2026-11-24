@@ -32,9 +32,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [025](investigations/025-OBSERVATIONAL-SELECTION-EFFECTS-DETECTION-BIAS-AND-THE-MISSING-EVIDENCE-PROBLEM.md) | Observational Selection Effects, Detection Bias, and the Missing-Evidence Problem | Observational astronomy, astrostatistics, survey design, measurement theory, astrophysical instrumentation | Initial investigation and four-question review recorded |
 | [026](investigations/026-OBSERVATION-MEASUREMENT-AND-THE-DIFFERENCE-BETWEEN-SIGNAL-AND-SOURCE.md) | Observation, Measurement, and the Difference Between a Signal and the Thing Signaled | Metrology, experimental physics, observational astronomy, detector physics, calibration science, inverse problems | Initial investigation and four-question review recorded |
 
+| [027](investigations/027-OBSERVATION-INFERENCE-AND-THE-PROBLEM-OF-IDENTIFIABILITY.md) | Observation, Inference, and the Problem of Identifiability | Inverse-problem theory, mathematical modelling, system identification, observability, statistics, experimental design, observational astronomy | Initial investigation and four-question review recorded |
+
 ## Next proposed investigation
 
-No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. Investigation 026 raises a possible next direction: observation, inference, and the problem of identifiability—when different physical configurations produce the same or nearly the same evidence, and what additional observations can distinguish them. This is a possible lead, not a predetermined assignment.
+Investigation 027 raises a possible next direction: independent witnesses, shared assumptions, and correlated evidence—when multiple instruments, datasets, or investigators agree, what establishes that they provide independent constraints rather than repeating a shared limitation? This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
