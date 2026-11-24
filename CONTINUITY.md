@@ -46,7 +46,8 @@ The shared vocabulary functions as an investigative grammar for comparing relati
 - Investigation 020: priors, regularization, Bayesian inference, identifiability, model-family restrictions, sensitivity analysis, and underdetermined inverse problems in 3D magnetic-field reconstruction; initial investigation and four-question review recorded. It distinguishes data-supported, assumption-sensitive, and unresolved features.
 - Investigation 021: expected information gain, model discrimination, complementary observations, adaptive observing, instrument limitations, and experimental design for distinguishing competing magnetic-field reconstructions; initial investigation and four-question review recorded.
 - Investigation 022: conditional independence, covariance, shared systematic errors, overlapping information, complementary magnetic-field tracers, joint inference, and evidence fusion; initial investigation and four-question review recorded.
-- Proposed next lead: examine model misspecification and the missing-variable problem—how apparently agreeing datasets may share an incomplete physical model, and how an unrepresented component or process might be detected. This is a possible direction, not a fixed assignment.
+- Investigation 023: model misspecification, omitted physical and latent variables, likelihood and prior inadequacy, residual analysis, posterior predictive checks, out-of-sample prediction, model expansion, and magnetic-field reconstruction examples; initial investigation and four-question review recorded.
+- Proposed next lead: examine falsifiability, model discrimination, and critical-test design—what observation would count against a favored reconstruction, and how competing explanations can be made to risk different outcomes. This is a possible direction, not a fixed assignment.
 
 ## Continuity principles
 
