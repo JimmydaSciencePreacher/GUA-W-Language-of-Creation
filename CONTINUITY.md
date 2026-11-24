@@ -19,7 +19,7 @@ Investigate and describe scientific observations using a shared foundational voc
 
 - Foundational research method: established as a working method.
 - Shared vocabulary: recorded as working definitions; open to refinement through evidence.
-- Scientific investigations: not yet begun.
+- Investigation 001: hydrogen spectral lines and atomic energy levels; initial investigation recorded.
 - First investigation number: **001**.
 
 ## Continuity principles
