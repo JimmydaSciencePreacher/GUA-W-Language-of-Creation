@@ -34,7 +34,9 @@ Investigate and describe scientific observations using a shared foundational voc
 - Investigation 011: the multiphase interstellar medium, including hot plasma, warm and cold gas, thermal instability, heating and cooling, ionization, molecular chemistry, turbulent mixing, conduction, condensation and evaporation, phase diagnostics, and matter cycling; initial investigation, four-question review, and 2026 review literature recorded.
 - Investigation 012: comparative audit of the seven GUA-W descriptors across Genesis 1–2 KJV, hydrogen atomic spectra, stellar atmospheres, and the multiphase interstellar medium. Initial findings distinguish shared descriptive vocabulary and comparable relationships from identical scientific mechanisms.
 - Investigation 013: magnetic fields in the interstellar medium, including field geometry, polarization, Zeeman measurements, Faraday rotation, magnetic stresses, turbulence, partial ionization, and field–matter coupling; initial investigation and four-question review recorded.
-- Proposed Investigation 014: cosmic-ray transport in the magnetized interstellar medium, including propagation, scattering, diffusion, and energy loss. This is a research direction, not a fixed sequence for all sciences.
+- Investigation 014: cosmic-ray transport in the magnetized interstellar medium, including propagation, scattering, streaming, diffusion, anisotropic transport, energy losses, and observational inference; initial investigation and four-question review recorded.
+- Investigation 015: cosmic-ray effects on molecular clouds, including ionization, heating, ion–molecule chemistry, cosmic-ray-induced ultraviolet chemistry, attenuation, chemical tracers, and cloud evolution; initial investigation and four-question review recorded.
+- Proposed Investigation 016: cosmic-ray ionization, magnetic coupling, and ambipolar diffusion in molecular clouds. This is a research direction, not a fixed sequence for all sciences.
 
 ## Continuity principles
 
