@@ -66,9 +66,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | [051](investigations/051-UNCHANGING-GOD-DISTINCT-OPERATIONS-THE-NAME-WORD-AND-WORK.md) | The Unchanging God: Distinct Operations, the Name, the Word, and the Work | Biblical studies, Old and New Testament theology, Johannine literature, Christology, pneumatology, doctrine of God, textual interpretation, philosophy of identity and causation, and AI evaluation | Initial text-led investigation; corrects identity/operation framing and preserves one God with scriptural distinctions |
 
+| [052](investigations/052-GOD-MAKES-HIMSELF-KNOWN-THREEFOLD-REVELATION-AND-HUMAN-COMPREHENSION.md) | God Makes Himself Known: Threefold Revelation and Human Comprehension | Biblical studies, biblical theology, Johannine literature, Christology, pneumatology, hermeneutics, communication theory, cognitive science, epistemology, philosophy of language, and AI evaluation | Initial text-led investigation; examines truthful revelation, parables, reception, and limits of comprehension |
+
 ## Next proposed investigation
 
-Investigation 052 examines the Word, the glory, and the unchanged identity of God before the world was. Primary texts: John 1:1–18; John 17:1–5; John 8:56–58; John 10:25–30; Hebrews 1:1–3; Colossians 1:15–20; Philippians 2:5–11; and Malachi 3:6. It will distinguish pre-existence, incarnation, relation, mission, and operation without treating incarnation as a change of divine identity.
+Investigation 053 examines the Truth in the Vessel: revelation, parable, reception, and the limits of the Witness. Primary texts: Deuteronomy 29:29; Psalm 78:1–8; Matthew 13:10–17 and 34–35; Mark 4:10–34; John 1:1–18; John 6:44–65; John 14:16–26 and 16:12–15; 1 Corinthians 13:9–12; 2 Corinthians 4:6–7; and 1 John 1:1–3. It will distinguish truth of revelation from completeness of a Witness's comprehension.
 
 ## Indexing standard
 
