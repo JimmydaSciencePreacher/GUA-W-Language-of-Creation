@@ -32,7 +32,8 @@ Investigate and describe scientific observations using a shared foundational voc
 - Investigation 009: protostars, circumstellar disks, angular-momentum transport, accretion, jets, disk winds, molecular outflows, feedback, and observational reconstruction; initial investigation, four-question review, and 2026 evidence update recorded.
 - Investigation 010: stellar feedback and the interstellar medium, including protostellar outflows, stellar winds, radiation pressure, photoionization, H II regions, supernovae, compression, dispersal, chemical enrichment, and the inference chain; initial investigation, four-question review, and 2026 evidence review recorded.
 - Investigation 011: the multiphase interstellar medium, including hot plasma, warm and cold gas, thermal instability, heating and cooling, ionization, molecular chemistry, turbulent mixing, conduction, condensation and evaporation, phase diagnostics, and matter cycling; initial investigation, four-question review, and 2026 review literature recorded.
-- Proposed Investigation 012: magnetic fields in the interstellar medium, including field geometry, polarization, turbulence, magnetic tension, and the movement of matter. This is a research direction, not a fixed sequence for all sciences.
+- Investigation 012: comparative audit of the seven GUA-W descriptors across Genesis 1–2 KJV, hydrogen atomic spectra, stellar atmospheres, and the multiphase interstellar medium. Initial findings distinguish shared descriptive vocabulary and comparable relationships from identical scientific mechanisms.
+- Proposed Investigation 013: magnetic fields in the interstellar medium, including field geometry, polarization, turbulence, magnetic tension, and the movement of matter. This is a research direction, not a fixed sequence for all sciences.
 
 ## Continuity principles
 
