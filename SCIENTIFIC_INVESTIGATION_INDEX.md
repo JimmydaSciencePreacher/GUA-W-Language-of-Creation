@@ -52,9 +52,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [043](investigations/043-DISCERNMENT-WITHOUT-USURPATION-TESTING-CLAIMS-WITHOUT-JUDGING-THE-HEART.md) | Discernment Without Usurpation: Testing Claims Without Judging the Heart | Biblical studies, theology, epistemology, measurement theory, causal inference, cognitive science, AI evaluation, and systems science | Initial text-led investigation; source-reference and observer-limit safeguards recorded |
 | [044](investigations/044-CHANGE-DEVIATION-AND-ALIGNMENT-WHEN-DOES-AN-OBSERVED-DIFFERENCE-BECOME-EVIDENCE-OF-DRIFT.md) | Change, Deviation, and Alignment: When Does an Observed Difference Become Evidence of Drift? | Biblical studies, theology, epistemology, measurement science, time-series analysis, causal inference, systems science, cognitive science, and AI evaluation | Continuation of Investigation 036; GUA-W Drift definition preserved and scientific meanings distinguished |
 
+| [045](investigations/045-COLLECTIVE-AGREEMENT-KNOWLEDGE-AND-ALIGNMENT-FREE-WILL-AND-MATTHEW-7-23.md) | Collective Agreement, Knowledge, and Alignment: Human Determination and “I Never Knew You” | Biblical studies, theology, epistemology, social cognition, collective intelligence, information theory, causal inference, AI evaluation, and systems science | Initial text-led investigation; collective consensus, source independence, human determination, and observer limits examined |
+
 ## Next proposed investigation
 
-Investigation 044 returns to the convergence question: can a collection of Witnesses become increasingly effective at agreeing with one another while becoming increasingly disconnected from the original Source? Examine independent Witnesses, shared assumptions, correlated evidence, collective agreement, and Source fidelity through Genesis 11:6, Daniel 12:4, and the established knowledge–wisdom–alignment distinctions. Consensus must not become the governing authority.
+Investigation 046 examines human willing, divine initiative, voluntary response, and the difference between human agency and independent authority. It will compare John 6:37–40, John 10:27–30, Romans 9–10, Ephesians 1:3–14, and Philippians 2:12–13 without forcing one passage to erase another.
 
 ## Indexing standard
 
