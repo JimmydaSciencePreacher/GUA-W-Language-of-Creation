@@ -30,10 +30,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [023](investigations/023-MODEL-MISSPECIFICATION-AND-THE-MISSING-VARIABLE-PROBLEM.md) | Model Misspecification and the Missing-Variable Problem | Statistical model checking, Bayesian inference, inverse problems, astrophysics, uncertainty quantification | Initial investigation and four-question review recorded |
 | [024](investigations/024-FALSIFIABILITY-MODEL-DISCRIMINATION-AND-CRITICAL-TEST-DESIGN.md) | Falsifiability, Model Discrimination, and Critical-Test Design | Philosophy of science, experimental design, Bayesian model comparison, observational astronomy, astrophysical magnetism | Initial investigation and four-question review recorded |
 | [025](investigations/025-OBSERVATIONAL-SELECTION-EFFECTS-DETECTION-BIAS-AND-THE-MISSING-EVIDENCE-PROBLEM.md) | Observational Selection Effects, Detection Bias, and the Missing-Evidence Problem | Observational astronomy, astrostatistics, survey design, measurement theory, astrophysical instrumentation | Initial investigation and four-question review recorded |
+| [026](investigations/026-OBSERVATION-MEASUREMENT-AND-THE-DIFFERENCE-BETWEEN-SIGNAL-AND-SOURCE.md) | Observation, Measurement, and the Difference Between a Signal and the Thing Signaled | Metrology, experimental physics, observational astronomy, detector physics, calibration science, inverse problems | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. Investigation 025 raises a possible next direction: observation, measurement, and the difference between a signal and the thing signaled—what an instrument measures, how physical interaction becomes a recorded value, and when a proxy can be mistaken for the underlying property. This is a possible lead, not a predetermined assignment.
+No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. Investigation 026 raises a possible next direction: observation, inference, and the problem of identifiability—when different physical configurations produce the same or nearly the same evidence, and what additional observations can distinguish them. This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
