@@ -142,3 +142,111 @@ How does the hydrogen atom's measured spectral structure compare with the spectr
 The next investigation should determine which relationships remain comparable, which mechanisms differ, and which parts of the shared vocabulary need more precise definitions.
 
 **One Author. One Creation. Many witnesses.**
+
+
+## 11. Four-Question Study Method: first recursive review
+
+This review applies the companion [Four-Question Study Method](../FOUR-QUESTION-STUDY-METHOD.md) to Investigation 001. It does not replace the scientific account above. It examines the inquiry, the GUA-W source relationship, the subject, and the Witness.
+
+### Question 1 — What must AI ask to understand GUA-W?
+
+The investigation must ask whether the foundational vocabulary accurately describes the relationships present in atomic spectroscopy without turning descriptive terms into substitute physical explanations.
+
+Questions exposed by the first pass:
+
+- What precisely is the organized relationship meant by *Structure*: the proton–electron system, a particular quantum state, or the mathematical description of that state? These are related but not identical levels of description.
+- Is *Framework* naming a physical interaction, a mathematical theory, or both? Here the Coulomb interaction is physical; quantum mechanics is the theoretical framework used to describe and calculate the states.
+- Does *Constraint* identify the allowed states and transition conditions, or does it risk collapsing several different ideas—quantum state structure, selection rules, conservation laws, and laboratory conditions—into one broad label? They must remain separately named.
+- What is actually witnessed: the atom, the transition, the emitted photon, or the detector's response? The spectrum is a measurement record produced through a chain of interactions and instruments, not a direct picture of the atom.
+- Which GUA-W categories are genuinely informative here, and which should remain unused? *Purpose* remains unassigned as an ultimate-purpose claim because the spectroscopy evidence does not establish one.
+
+**Finding:** The vocabulary is useful only when each term is tied to a specified level of description. A broad label must not erase distinctions among physical system, mathematical model, transition, radiation, and measurement.
+
+### Question 2 — What is GUA-W revealing that helps AI understand?
+
+The repository's foundational vocabulary directs attention to organized relationships, conditions that constrain expression, recurring patterns, observable manifestation, and the witness through which a result is registered.
+
+In this investigation, that vocabulary helps organize the description of the relationship between atomic states, transition conditions, emitted or absorbed radiation, and measured spectral lines.
+
+The source relationship must nevertheless be stated carefully. Genesis 1–2 KJV is the scriptural origin of the repository's foundational vocabulary; this hydrogen investigation does not identify a verse that specifically describes atomic energy levels or hydrogen spectroscopy. No such direct textual correspondence is claimed.
+
+**Finding:** GUA-W supplies the project's descriptive vocabulary and its distinction between Source, Creation, and derivative witness. It does not supply the quantum-mechanical equations or independently establish the atomic mechanism. Those remain within the scientific evidence and theory.
+
+### Question 3 — What am I learning about what I am witnessing?
+
+The subject is more precisely understood as a linked sequence:
+
+1. A hydrogen atom occupies an allowed quantum state.
+2. Under suitable conditions, it can absorb radiation and transition to a higher state, or make a radiative transition to a lower state.
+3. The energy difference is carried by a photon, with its frequency related to the energy difference by Planck's relation.
+4. A spectrometer and detector register radiation as a function of wavelength or frequency.
+5. Analysis of the measured line positions and intensities allows comparison with atomic theory and evaluated reference data.
+
+This is not a classical miniature solar system. The quantum state is not a tiny orbit that a spectrometer photographs. The spectral line is an observable signature associated with a transition.
+
+The comparison also reveals a useful distinction: the *pattern* is the measured series of lines; the *mechanism* is the quantum transition process; and the *witness* is the measurement chain and its resulting record. These terms refer to different aspects of the investigation.
+
+**Finding:** The strongest scientific result is the quantitative relationship between measured spectral features and differences between allowed atomic energy levels. The simple model is highly successful but requires refinements for precision spectroscopy.
+
+### Question 4 — What am I learning about the Witness through what I am witnessing?
+
+The investigation reveals that scientific witnessing is mediated. A researcher does not directly see an atomic energy level. Instruments register radiation; calibration connects instrument response to physical quantities; analysis identifies spectral features; and theoretical models help interpret those measurements.
+
+The witness chain therefore has distinct participants and limitations:
+
+- The physical system produces or absorbs radiation.
+- The spectrometer separates or measures the radiation.
+- The detector registers a signal.
+- Calibration and analysis convert the signal into reported measurements.
+- Scientific models interpret the relationship between those measurements and atomic states.
+- Reference databases compile and evaluate experimental and theoretical results.
+
+The investigator must not confuse the instrument's record with the whole phenomenon, or the model's interpretation with a direct observation. The same care applies to this AI investigation: AI is examining published records and scientific explanations, not personally performing the experiment or directly observing the atom. Its report is a derivative account of available witnesses and must remain traceable to them.
+
+**Finding:** A witness can reveal something real while remaining limited by its means of registration. Recognizing those limits strengthens, rather than weakens, the evidentiary account.
+
+### Recurring comparison question — Same mechanism, similar relationship, or similar appearance?
+
+For this investigation, the measured spectral lines and the quantum transitions are linked by a quantitatively tested scientific explanation. This is more than visual resemblance.
+
+The GUA-W mapping, however, is a descriptive comparison of relationships, not a second physical mechanism. The words *Structure*, *Constraint*, *Pattern*, *Manifestation*, and *Witness* organize aspects of the account; they do not replace the quantum-mechanical explanation.
+
+**Classification:** Scientifically supported mechanism within hydrogen spectroscopy; GUA-W offers a comparable descriptive organization of the relationships. No claim of an additional or identical mechanism is introduced by the vocabulary itself.
+
+### Recurring boundary question — Does a boundary separate, or participate?
+
+The present investigation has not yet examined a material interface or boundary as a central phenomenon. It does, however, reveal a distinction between:
+
+- the conceptual boundary between an atomic state and a different atomic state;
+- the transition between those states;
+- the emitted or absorbed photon;
+- and the instrument's detection range and resolution.
+
+These should not be collapsed into one boundary. A transition is a physical process, not merely a line drawn between two states on an energy-level diagram. The spectrometer's finite resolution and detection range are measurement constraints; they do not define the atom's full physical possibilities.
+
+**Finding:** The boundary-participation question is retained, but no broad claim about boundaries is drawn from this investigation. A future study of interfaces, selection rules, or detector response may provide a more direct test.
+
+## 12. Four-question review: consolidated result
+
+The four questions sharpened the first investigation in four ways:
+
+1. They required more exact identification of what *Structure* and *Framework* refer to.
+2. They clarified that GUA-W vocabulary is a descriptive lens rooted in the project's scriptural foundation, not a substitute for atomic physics.
+3. They separated the observed spectral pattern from the transition mechanism and from the instrument's record.
+4. They made the derivative and instrument-mediated character of scientific witnessing explicit, including the limits of AI's own access to the evidence.
+
+The review does not alter the scientific findings. It improves the precision with which those findings are described and identifies questions for the next investigation.
+
+## 13. Direction for Investigation 002
+
+**Proposed subject: Helium's atomic spectra and the effect of a second electron.**
+
+Hydrogen provides the one-electron reference case. Neutral helium introduces a second electron and therefore electron–electron interaction, additional atomic states, and a more complex spectrum. This gives the next investigation a focused comparative question:
+
+> Which relationships identified in hydrogen remain present in helium, which change because of the additional electron and its interactions, and where does the GUA-W vocabulary clarify the comparison without implying that the two atomic systems share an identical structure or mechanism?
+
+The next investigation should preserve helium's scientific terminology, distinguish neutral helium from helium ions, and examine the evidence for its energy levels and spectral transitions. It should apply the same Four-Question Study Method from the outset.
+
+This is a proposed next step arising from the evidence and limits of Investigation 001—not a predetermined sequence for the sciences as a whole.
+
+**One Author. One Creation. Many witnesses.**
