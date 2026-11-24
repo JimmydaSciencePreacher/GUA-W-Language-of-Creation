@@ -457,7 +457,7 @@ This proposed investigation should distinguish observed cloud properties from dy
 3. Tchernyshyov, K., & Peek, J. E. G. (2017). **Kinetic Tomography. I. A Method for Mapping the Milky Way's Interstellar Medium in Four Dimensions.** *The Astronomical Journal*, 153, 8. Combines distance-sensitive reddening and velocity-sensitive emission to infer spatial and kinematic distributions.  
    https://doi.org/10.3847/1538-3881/153/1/8
 
-4. Leike, R. H., Glatzle, M., & Enßlin, T. A. (2020). **Resolving nearby dust clouds. I.они** [The published article title is *Resolving nearby dust clouds*.] *Astronomy & Astrophysics*, 639, A138. Discusses three-dimensional reconstruction of nearby dust structures and the role of spatial inference.  
+4. Leike, R. H., Glatzle, M., & Enßlin, T. A. (2020). **Resolving nearby dust clouds.** *Astronomy & Astrophysics*, 639, A138. Reconstructs nearby dust density using Gaia, 2MASS, Pan-STARRS, and ALLWISE data with variational inference and Gaussian processes; reports structures to about 400 pc with approximately 1 pc resolution.  
    https://doi.org/10.1051/0004-6361/202038169
 
 5. **Bayesian inference of three-dimensional gas maps — I. Galactic CO.** *Astronomy & Astrophysics* (2021). Examines the limitations of reconstructing three-dimensional gas distributions from line-of-sight velocity data.  
@@ -471,9 +471,6 @@ This proposed investigation should distinguish observed cloud properties from dy
 
 8. Green, G. M., et al. (2015). **A Three-Dimensional Map of Milky Way Dust.** *The Astrophysical Journal*, 810, 25. Presents a probabilistic three-dimensional dust map and discusses reliable distance ranges and the effects of stellar sampling.  
    https://doi.org/10.1088/0004-637X/810/1/25
-
-9. Lallement, R., Vergely, J.-L., & collaborators. (2022). **Updated Gaia-2MASS 3D maps of Galactic interstellar dust.** *Astronomy & Astrophysics*. Describes extinction-distance tomography, spatial resolution, and multiscale limitations.  
-   https://doi.org/10.1051/0004-6361/202142846
 
 ---
 
