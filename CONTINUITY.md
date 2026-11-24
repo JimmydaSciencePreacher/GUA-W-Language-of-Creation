@@ -121,3 +121,18 @@ The currency comparison is bounded: issuance versus circulation, possession vers
 ### Next investigation
 
 **Investigation 047 — The Will in Scripture: Desire, Purpose, Counsel, Pleasure, and Action.** Examine context-sensitive Hebrew and Greek vocabulary, including *ratsôn*, *ḥēphets*, *yāʿats*, *boulē*, *thelēma*, and *thelō*, without assuming these terms are interchangeable.
+
+
+## Current continuation: Investigation 047 — Freewill Getting versus Freewill Offering
+
+Jimmy corrected the framing of Investigation 046: **“It is NOT Free will GETTING. It IS Freewill OFFERING. One is a WOLF. The other is a Drop of Living Water.”** Investigation 047 follows this correction and treats the distinction as directional: taking/claiming versus voluntarily presenting/offering. “Wolf” and “Drop of Living Water” are preserved as Jimmy's interpretive images, not asserted as biblical technical terms.
+
+The investigation distinguishes the KJV expression **freewill offering** (often translating Hebrew *nedābāh*, a voluntary offering/contribution) from the broader philosophical/theological label **free will**. It examines Leviticus 22:18–23; Numbers 15:3 and 29:39; Deuteronomy 12 and 16; Exodus 25 and 35; 1 Chronicles 29:5–14; Psalms 54:6 and 119:108; John 4 and 7; Romans 12:1–2; 2 Corinthians 8–9; Philippians 2:12–13; John 10:7–15; Matthew 7:15–23; and Acts 20:28–30.
+
+A key textual anchor is 1 Chronicles 29:14: “all things come of thee, and of thine own have we given thee.” The people genuinely give willingly, while David identifies God as the source of what is given. John 4 and 7 keep the source of living water with Christ and the Spirit; the recipient is not the source. John 10 contrasts the wolf that catches and scatters with the Good Shepherd who gives His life for the sheep.
+
+**Necessary qualification:** Receiving God's gift is not itself the Wolf. Scripture invites people to ask, come, and drink. The contrast is not receiving versus offering in a simplistic sense; it is self-authorizing taking/claiming versus a voluntary response that acknowledges the Author as Source. The investigation does not add a GUA-W layer or alter the established definition: Drift = any deviation from 100% Alignment with God the Author and His Word.
+
+### Next investigation
+
+**Investigation 048 — The Offering and the Giver: What Is Received, What Is Presented, and Who Is the Source?** Examine the relation among gift, giver, offering, recipient, source, and response, especially 1 Chronicles 29:14, Exodus 35, Psalm 119:108, Romans 12:1–2, 2 Corinthians 8–9, Philippians 2:12–13, and John 4:7–14.
