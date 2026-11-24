@@ -41,10 +41,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [032](investigations/032-PROVENANCE-TRACEABILITY-AND-EVIDENCE-TRANSFORMATION.md) | Provenance, Traceability, and the Difference Between Received Evidence and a Derived Account | Data provenance, research reproducibility, information management, digital forensics, AI documentation, data lineage, measurement science | Initial investigation and four-question review recorded |
 | [033](investigations/033-EVIDENCE-SYNTHESIS-DISAGREEMENT-DEPENDENCY-AND-COMPOSITE-WITNESS.md) | Evidence Synthesis, Disagreement, Dependency, and the Construction of a Composite Witness | Systematic review, meta-analysis, Bayesian statistics, causal inference, measurement science, research methodology, AI-assisted research | Initial investigation and four-question review recorded |
 | [034](investigations/034-OUT-OF-SAMPLE-CONFIRMATION-PROSPECTIVE-TESTING-AND-INDEPENDENT-VALIDATION.md) | Out-of-Sample Confirmation, Prospective Testing, and the Difference Between Synthesis and Independent Confirmation | Predictive modeling, statistical learning, experimental design, prospective research, external validation, reproducibility, measurement science | Initial investigation and four-question review recorded |
+| [035](investigations/035-TRANSPORTABILITY-SCOPE-AND-LIMITS-OF-GENERALIZATION.md) | Transportability, Scope, and the Limits of Generalization Across Populations and Environments | External validity, causal inference, statistical learning, prediction modeling, ecology, evolutionary biology, measurement science | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-Investigation 034 raises a possible next direction: transportability, scope, and the limits of generalization across populations and environments—when a conclusion succeeds in independent tests, how far may it be carried before its original validation no longer applies? This is a possible lead, not a predetermined assignment.
+Investigation 035 raises a possible next direction: temporal change, adaptation, drift, and the persistence of relationships—when system conditions change over time, how can a Witness distinguish ordinary variation, adaptation, gradual drift, and a genuine change in the relationship being observed? This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
