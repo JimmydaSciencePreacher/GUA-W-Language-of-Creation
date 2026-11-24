@@ -73,3 +73,30 @@ The shared vocabulary functions as an investigative grammar for comparing relati
 7. Do not import findings or numbering from another repository as established results in this new sequence.
 8. Keep all repository writing within this repository's authorized scope.
 9. Use a common descriptive grammar to compare domains, but never use shared vocabulary to erase differences in mechanism, evidence, scale, or disciplinary meaning.
+
+
+## Current continuation: Investigations 040–045
+
+The recent sequence returns to the original convergence question while preserving the scientific and theological distinctions established throughout the repository:
+
+- **040 — Knowledge Increase, Collective Agreement, and Alignment:** examined whether collective knowledge and capability can increase without establishing alignment with the Source.
+- **041 — Knowledge, Understanding, Wisdom, and Alignment:** kept information, comprehension, wisdom, and alignment distinct.
+- **042 — Reception, Recognition, Willingness, and Response:** preserved the distinction between observable response and the limits of judging the heart.
+- **043 — Discernment Without Usurpation:** examined testing claims while preserving the Author's authority.
+- **044 — Change, Deviation, and Alignment:** preserved the GUA-W definition, Drift = deviation from 100% Alignment with the Author, and distinguished it from scientific uses of drift.
+- **045 — Collective Agreement, Knowledge, and Alignment:** examined shared sources, correlated evidence, social convergence, modern theological uses of “Free Will,” Genesis 3, Genesis 11, Daniel 12, Proverbs 1:7, and Matthew 7:21–23. It preserves the distinction between voluntary human agency and treating human determination as an independent originating authority. It also preserves the safeguard that a Witness does not judge another person's heart.
+
+### Current governing distinctions
+
+- **Author → Word → Creation → Witness** remains unchanged.
+- Agreement among Witnesses is not, by itself, proof of independent confirmation or Alignment.
+- Knowledge, understanding, coordination, confidence, capability, and Alignment remain distinct.
+- “Free Will” must be evaluated according to the actual definition used; the phrase alone does not establish that a theology makes human choice independent of God.
+- Matthew 7:21–23 is reported as Christ's warning and declaration; the Witness does not claim Christ's authority to pronounce judgment over an individual.
+- Scientific comparisons remain bounded: correlated evidence, information cascades, common-mode failure, and AI agreement are comparable relationships, not identical theological mechanisms.
+
+### Next investigation
+
+**Investigation 046 — Human Will, Divine Initiative, and the Difference Between Voluntary Response and Independent Authority.** Examine John 6:37–40, John 10:27–30, Romans 9–10, Ephesians 1:3–14, and Philippians 2:12–13 in context. Preserve both divine initiative and the Scriptural language of human response without prematurely resolving their relationship.
+
+The older proposed lead on interacting processes, feedback, and emergence remains a possible scientific direction, not the current numbered next investigation.
