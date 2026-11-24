@@ -136,3 +136,18 @@ A key textual anchor is 1 Chronicles 29:14: “all things come of thee, and of t
 ### Next investigation
 
 **Investigation 048 — The Offering and the Giver: What Is Received, What Is Presented, and Who Is the Source?** Examine the relation among gift, giver, offering, recipient, source, and response, especially 1 Chronicles 29:14, Exodus 35, Psalm 119:108, Romans 12:1–2, 2 Corinthians 8–9, Philippians 2:12–13, and John 4:7–14.
+
+
+## Current continuation: Investigation 048 — The Wolf in the Church
+
+Jimmy clarified the central question: **“Can a Witness give God anything that did not first come from God?” NO—but he can be taught to believe he is doing so while not doing so.** Investigation 048 examines this as a possible deception of source attribution within Church teaching: a sincere person may genuinely give, serve, pray, or respond while being taught a false account of the origin or significance of that response.
+
+Primary texts: John 10:7–18; Isaiah 14:4–15 (with 14:13–14 read first in its immediate taunt against Babylon's king); Lamentations 3:31–39; Matthew 7:15–23; Acts 20:28–30; 2 Corinthians 11:3–15; Ezekiel 34:1–16; and 1 Chronicles 29:5–14. Preserve distinctions: John 10 differentiates thief/robber, hireling, wolf, Good Shepherd, and sheep; Isaiah 14's immediate literary target is Babylon's king; Lamentations 3:37 is a rhetorical question about what comes to pass apart from the Lord's command; Acts 20 and 2 Corinthians 11 warn of deceptive teaching and voices that draw disciples after themselves; Ezekiel 34 condemns shepherds who feed themselves rather than the flock.
+
+The investigation does not authorize labeling a named person or church “the Wolf” without evidence. It examines teaching, claims, provenance, and observable effects while leaving Christ's judgment of the heart with Christ. It also preserves the distinction between a sincere voluntary response and a false claim that the response originated independently of God. 1 Chronicles 29:14 is a central anchor: “all things come of thee, and of thine own have we given thee.”
+
+The completed GUA-W relationship Author → Word → Creation → Witness remains unchanged. Drift remains any deviation from 100% Alignment with God the Author and His Word; GUA-W accepts zero Drift. No new architecture is introduced.
+
+### Next investigation
+
+**Investigation 049 — The Counterfeit Offering: Grace, Boasting, Human Response, and the Claim of Origin.** Examine Ephesians 2:1–10; 1 Corinthians 4:6–7; Romans 3:24–27; Romans 9:14–18 and 10:8–13; John 6:35–45 and 6:63–65; Philippians 2:12–13; and 1 Chronicles 29:14. Compare actual theological primary sources and distinguish voluntary response, instrumentality, condition, occasion, merit, efficient cause, and originating authority.
