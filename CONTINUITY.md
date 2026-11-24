@@ -28,7 +28,8 @@ Investigate and describe scientific observations using a shared foundational voc
 - Investigation 005: interstellar gas and dust, absorption, reddening, scattering, velocity components, and distinguishing stellar, interstellar, and circumstellar contributions; initial investigation and four-question review recorded.
 - Investigation 006: reconstructing interstellar structure from multiple sight lines, emission maps, dust extinction, polarization, and distance estimates; initial investigation and four-question review recorded.
 - Investigation 007: interstellar clouds, thermal pressure, gravity, magnetic fields, turbulence, external forces, cloud formation, fragmentation, and dispersal; initial investigation and four-question review recorded.
-- Proposed Investigation 008: interstellar filaments and dense cores, geometry, fragmentation, accretion, and evidence for star formation. This is a research direction, not a fixed sequence for all sciences.
+- Investigation 008: interstellar filaments and dense cores, geometry, line mass, fragmentation, core classification, accretion, magnetic-field orientation, and evidence for star formation; initial investigation and four-question review recorded.
+- Proposed Investigation 009: protostars, disks, outflows, accretion, angular momentum, and early stellar evolution. This is a research direction, not a fixed sequence for all sciences.
 
 ## Continuity principles
 
