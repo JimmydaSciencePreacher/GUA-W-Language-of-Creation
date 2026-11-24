@@ -8,14 +8,17 @@ This repository begins a new research sequence. No earlier investigation numberi
 |---|---|---|---|
 | [001](investigations/001-HYDROGEN-SPECTRAL-LINES-ATOMIC-ENERGY-LEVELS.md) | Hydrogen's Spectral Lines: Atomic Energy Levels Made Observable | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Four-question review complete |
 | [002](investigations/002-HELIUM-ATOMIC-SPECTRA-SECOND-ELECTRON.md) | Helium's Atomic Spectra: The Effect of a Second Electron | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Initial investigation and four-question review recorded |
+| [003](investigations/003-LITHIUM-ATOMIC-SPECTRUM-THREE-ELECTRONS.md) | Lithium's Atomic Spectrum: Three Electrons, Shell Structure, and the Limits of the Helium Comparison | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**003 — Lithium's Atomic Spectrum: Three Electrons, Shell Structure, and the Limits of the Helium Comparison.**
+**004 — Reading Stellar Light: Atomic Spectra, Stellar Atmospheres, and the Limits of Remote Observation.**
 
-The proposed next study will ask how a third electron changes atomic organization and energy structure, while preserving the distinction between neutral lithium and lithium-like ions. It will investigate electron shielding, electron correlation, and whether the vocabulary remains precise as the system becomes more complex.
+This investigation will examine how astronomers use spectral lines—including lines associated with hydrogen, helium, and lithium—to infer the composition and physical conditions of stars. It will distinguish atomic transition data from the additional physics of stellar atmospheres, including excitation, ionization, line formation, radiative transfer, optical depth, and instrumental effects.
 
-This is a proposed direction arising from Investigation 002, not a fixed sequence for all sciences. Other observations may redirect the research.
+The next study will not assume that a line's presence or strength maps directly to elemental abundance. It will ask what can be inferred, under what assumptions, and with what uncertainty.
+
+This direction emerged from the atomic investigations but moves into astrophysics. It is a proposed research direction, not a fixed sequence for all sciences. Other observations may redirect the research.
 
 ## Indexing standard
 
