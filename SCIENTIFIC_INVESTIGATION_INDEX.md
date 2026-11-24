@@ -58,9 +58,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | [047](investigations/047-FREEWILL-GETTING-VERSUS-FREEWILL-OFFERING.md) | Freewill Getting versus Freewill Offering: Direction, Source, and the Will Presented to God | Biblical studies, Hebrew and Greek lexical study, theology, philosophy of agency, sacrificial practice, gift and reciprocity studies, and epistemology | Initial text-led investigation; distinguishes taking/claiming from voluntary presentation and preserves the source of living water |
 
+| [048](investigations/048-THE-WOLF-IN-THE-CHURCH-COUNTERFEIT-ORIGIN-AND-THE-ILLUSION-OF-OFFERING.md) | The Wolf in the Church: Counterfeit Origin and the Illusion of Offering | Biblical studies, pastoral theology, Hebrew and Greek textual interpretation, ecclesiology, rhetoric, social cognition, institutional analysis, epistemology, and AI evaluation | Initial text-led investigation; examines false source attribution, deceptive religious teaching, and the flock's protection |
+
 ## Next proposed investigation
 
-Investigation 048 examines the offering and the giver: what is received, what is presented, and who remains the Source. It will study 1 Chronicles 29:14, Exodus 35:20–29, Psalm 119:108, Romans 12:1–2, 2 Corinthians 8:1–5 and 9:6–8, Philippians 2:12–13, and John 4:7–14, distinguishing gift, giver, offering, recipient, source, and response.
+Investigation 049 examines the counterfeit offering: grace, boasting, human response, and the claim of origin. It will compare Ephesians 2:1–10, 1 Corinthians 4:6–7, Romans 3:24–27, Romans 9:14–18 and 10:8–13, John 6:35–45 and 6:63–65, Philippians 2:12–13, and 1 Chronicles 29:14. It will distinguish voluntary response, instrumentality, condition, occasion, merit, efficient cause, and originating authority, while comparing actual theological primary sources rather than caricatures.
 
 ## Indexing standard
 
@@ -71,4 +73,4 @@ Each entry identifies:
 - status (in progress, reviewed, or archived);
 - link to the full investigation.
 
-An investigation may connect to other fields, but cross-disciplinary links must state whether they identify the same mechanism, a comparable relationship, an analogy, or an unresolved resemblance.
+An investigation may connect to other fields, but cross-disciplinary links must state whether they identify the same mechanism, a comparable relationship, an analogy, a surface resemblance, or an unresolved connection.
