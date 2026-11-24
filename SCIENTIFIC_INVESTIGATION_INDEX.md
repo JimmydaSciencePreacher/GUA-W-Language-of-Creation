@@ -14,14 +14,15 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [005](investigations/005-THE-INTERSTELLAR-MEDIUM-ABSORPTION-DUST-REDDENING-AND-THE-JOURNEY-OF-STARLIGHT.md) | The Interstellar Medium: Absorption, Dust, Reddening, and the Journey of Starlight | Astrophysics, interstellar-medium physics, spectroscopy, radiative transfer, dust physics | Initial investigation and four-question review recorded |
 | [006](investigations/006-RECONSTRUCTING-INTERSTELLAR-STRUCTURE-MULTIPLE-SIGHT-LINES-EMISSION-MAPS-AND-THREE-DIMENSIONAL-INFERENCE.md) | Reconstructing Interstellar Structure: Multiple Sight Lines, Emission Maps, and Three-Dimensional Inference | Galactic astronomy, interstellar-medium physics, astrometry, radio astronomy, statistical inference | Initial investigation and four-question review recorded |
 | [007](investigations/007-INTERSTELLAR-CLOUDS-PRESSURE-GRAVITY-MAGNETIC-FIELDS-TURBULENCE-AND-FORMATION-OF-STRUCTURE.md) | Interstellar Clouds: Pressure, Gravity, Magnetic Fields, Turbulence, and the Formation of Structure | Interstellar-medium physics, molecular astrophysics, magnetohydrodynamics, star formation | Initial investigation and four-question review recorded |
+| [008](investigations/008-INTERSTELLAR-FILAMENTS-AND-DENSE-CORES-GEOMETRY-FRAGMENTATION-ACCRETION-AND-STAR-FORMATION.md) | Interstellar Filaments and Dense Cores: Geometry, Fragmentation, Accretion, and the Evidence for Star Formation | Molecular astrophysics, star-formation physics, radio and submillimetre astronomy, magnetohydrodynamics | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**008 — Interstellar Filaments and Dense Cores: Geometry, Fragmentation, Accretion, and the Evidence for Star Formation.**
+**009 — Protostars, Disks, and Outflows: Accretion, Angular Momentum, and the First Stellar Manifestations.**
 
-This proposed investigation will examine how filaments and dense cores form, exchange material, fragment, and become associated with star formation. It will distinguish gravitationally bound structures from transient density enhancements and preserve competing explanations.
+This proposed investigation will examine how collapsing core material becomes a protostar and circumstellar disk, how angular momentum is redistributed, and what jets and molecular outflows reveal about accretion and feedback. It will distinguish observations from model-dependent reconstruction and preserve competing explanations.
 
-The question emerged from Investigation 007 and remains a proposed direction, not a fixed sequence for all sciences. Other observations may redirect the research.
+The question emerged from Investigation 008 and remains a proposed direction, not a fixed sequence for all sciences. Other observations may redirect the research.
 
 ## Indexing standard
 
