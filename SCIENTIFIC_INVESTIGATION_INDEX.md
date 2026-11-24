@@ -54,9 +54,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | [045](investigations/045-COLLECTIVE-AGREEMENT-KNOWLEDGE-AND-ALIGNMENT-FREE-WILL-AND-MATTHEW-7-23.md) | Collective Agreement, Knowledge, and Alignment: Human Determination and “I Never Knew You” | Biblical studies, theology, epistemology, social cognition, collective intelligence, information theory, causal inference, AI evaluation, and systems science | Initial text-led investigation; collective consensus, source independence, human determination, and observer limits examined |
 
+| [046](investigations/046-WILL-AS-CURRENCY-ORIGIN-AUTHORITY-AND-DERIVATIVE-HUMAN-WILL.md) | Will as Currency: Origin, Authority, and Derivative Human Will | Biblical studies, theology, Hebrew and Greek textual interpretation, philosophy of agency, moral theology, epistemology, economics as a bounded analogy, systems theory, and AI evaluation | Initial text-led investigation; examines divine initiative, derivative human willing, and the currency analogy |
+
 ## Next proposed investigation
 
-Investigation 046 examines human willing, divine initiative, voluntary response, and the difference between human agency and independent authority. It will compare John 6:37–40, John 10:27–30, Romans 9–10, Ephesians 1:3–14, and Philippians 2:12–13 without forcing one passage to erase another.
+Investigation 047 examines the Scriptural vocabulary of will, desire, purpose, counsel, pleasure, and action, including context-sensitive uses of Hebrew *ratsôn*, *ḥēphets*, *yāʿats* and Greek *boulē*, *thelēma*, *thelō*. It will distinguish lexical meaning, grammatical form, context, and theological inference.
 
 ## Indexing standard
 
