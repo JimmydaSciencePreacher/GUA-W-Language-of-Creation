@@ -34,9 +34,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | [027](investigations/027-OBSERVATION-INFERENCE-AND-THE-PROBLEM-OF-IDENTIFIABILITY.md) | Observation, Inference, and the Problem of Identifiability | Inverse-problem theory, mathematical modelling, system identification, observability, statistics, experimental design, observational astronomy | Initial investigation and four-question review recorded |
 
+| [028](investigations/028-INDEPENDENT-WITNESSES-SHARED-ASSUMPTIONS-AND-CORRELATED-EVIDENCE.md) | Independent Witnesses, Shared Assumptions, and Correlated Evidence | Statistical dependence, causal graphical models, measurement science, Bayesian evidence integration, data provenance, experimental design, gravitational-wave astronomy, research synthesis | Initial investigation and four-question review recorded |
+
 ## Next proposed investigation
 
-Investigation 027 raises a possible next direction: independent witnesses, shared assumptions, and correlated evidence—when multiple instruments, datasets, or investigators agree, what establishes that they provide independent constraints rather than repeating a shared limitation? This is a possible lead, not a predetermined assignment.
+Investigation 028 raises a possible next direction: circular validation, data leakage, and the difference between learning a pattern and independently testing it—when a model is trained, tuned, or evaluated using information that has already influenced its construction, what evidence remains genuinely independent for testing its claims? This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
