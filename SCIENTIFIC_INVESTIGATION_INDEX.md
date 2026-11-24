@@ -6,13 +6,16 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 | Number | Title | Primary disciplines | Status |
 |---|---|---|---|
-| [001](investigations/001-HYDROGEN-SPECTRAL-LINES-ATOMIC-ENERGY-LEVELS.md) | Hydrogen's Spectral Lines: Atomic Energy Levels Made Observable | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Four-question review complete; next investigation proposed |
+| [001](investigations/001-HYDROGEN-SPECTRAL-LINES-ATOMIC-ENERGY-LEVELS.md) | Hydrogen's Spectral Lines: Atomic Energy Levels Made Observable | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Four-question review complete |
+| [002](investigations/002-HELIUM-ATOMIC-SPECTRA-SECOND-ELECTRON.md) | Helium's Atomic Spectra: The Effect of a Second Electron | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-**002 — Helium's Atomic Spectra and the Effect of a Second Electron.**
+**003 — Lithium's Atomic Spectrum: Three Electrons, Shell Structure, and the Limits of the Helium Comparison.**
 
-This direction emerged from the hydrogen review. It will compare the one-electron hydrogen atom with neutral helium, while distinguishing helium ions and preserving the scientific differences between their structures and mechanisms. The sequence remains open to other scientific directions as evidence and questions develop.
+The proposed next study will ask how a third electron changes atomic organization and energy structure, while preserving the distinction between neutral lithium and lithium-like ions. It will investigate electron shielding, electron correlation, and whether the vocabulary remains precise as the system becomes more complex.
+
+This is a proposed direction arising from Investigation 002, not a fixed sequence for all sciences. Other observations may redirect the research.
 
 ## Indexing standard
 
