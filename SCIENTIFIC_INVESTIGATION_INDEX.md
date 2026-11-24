@@ -27,10 +27,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [020](investigations/020-PRIORS-REGULARIZATION-AND-UNDERDETERMINED-INVERSE-PROBLEMS-IN-THREE-DIMENSIONAL-MAGNETIC-FIELD-RECONSTRUCTION.md) | Priors, Regularization, and Underdetermined Inverse Problems in Three-Dimensional Magnetic-Field Reconstruction | Inverse-problem theory, Bayesian statistics, regularization, astrophysical magnetic-field reconstruction | Initial investigation and four-question review recorded |
 | [021](investigations/021-INFORMATION-GAIN-AND-EXPERIMENTAL-DESIGN-CHOOSING-OBSERVATIONS-TO-DISTINGUISH-COMPETING-MAGNETIC-FIELD-RECONSTRUCTIONS.md) | Information Gain and Experimental Design: Choosing Observations to Distinguish Competing Magnetic-Field Reconstructions | Bayesian experimental design, information theory, observational astronomy, magnetic-field reconstruction | Initial investigation and four-question review recorded |
 | [022](investigations/022-MEASUREMENT-INDEPENDENCE-CORRELATED-ERRORS-AND-EVIDENCE-FUSION.md) | Measurement Independence, Correlated Errors, and Evidence Fusion | Statistical inference, measurement science, Bayesian data fusion, astrophysical magnetism, polarimetry, Zeeman spectroscopy | Initial investigation and four-question review recorded |
+| [023](investigations/023-MODEL-MISSPECIFICATION-AND-THE-MISSING-VARIABLE-PROBLEM.md) | Model Misspecification and the Missing-Variable Problem | Statistical model checking, Bayesian inference, inverse problems, astrophysics, uncertainty quantification | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. Investigation 022 raises a possible next direction: model misspecification and the missing-variable problem—how apparently agreeing datasets may share an incomplete physical model, and how an unrepresented component or process might be detected. This is a possible lead, not a predetermined assignment.
+No fixed next subject is assigned. Continue from the evidence and unresolved questions in the existing records. Investigation 023 raises a possible next direction: falsifiability, model discrimination, and critical-test design—what observation would count against a favored reconstruction, and how competing explanations can be made to risk different outcomes. This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
