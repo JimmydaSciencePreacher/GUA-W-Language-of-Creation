@@ -11,15 +11,15 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [003](investigations/003-LITHIUM-ATOMIC-SPECTRUM-THREE-ELECTRONS.md) | Lithium's Atomic Spectrum: Three Electrons, Shell Structure, and the Limits of the Helium Comparison | Atomic physics, quantum mechanics, spectroscopy, physical chemistry | Initial investigation and four-question review recorded |
 | [004](investigations/004-READING-STELLAR-LIGHT-ATMOSPHERES-AND-SPECTRA.md) | Reading Stellar Light: Atomic Spectra, Stellar Atmospheres, and the Limits of Remote Observation | Astrophysics, stellar spectroscopy, radiative transfer, observational astronomy | Initial investigation and four-question review recorded |
 
+| [005](investigations/005-THE-INTERSTELLAR-MEDIUM-ABSORPTION-DUST-REDDENING-AND-THE-JOURNEY-OF-STARLIGHT.md) | The Interstellar Medium: Absorption, Dust, Reddening, and the Journey of Starlight | Astrophysics, interstellar-medium physics, spectroscopy, radiative transfer, dust physics | Initial investigation and four-question review recorded |
+
 ## Next proposed investigation
 
-**005 — The Interstellar Medium: Absorption, Dust, Reddening, and the Journey of Starlight.**
+**006 — Reconstructing Interstellar Structure: Multiple Sight Lines, Emission Maps, and Three-Dimensional Inference.**
 
-This investigation will examine how gas and dust between a star and observer alter received light. It will distinguish stellar-atmosphere features from interstellar absorption lines, dust extinction and reddening, scattering, Doppler components from intervening clouds, and instrumental effects.
+This proposed investigation will examine how absorption measurements toward stars at different distances are combined with emission maps, dust extinction, polarization, and distance estimates to infer the spatial distribution of interstellar matter. It will distinguish direct measurements from model-dependent reconstruction and preserve non-uniqueness and uncertainty.
 
-The central question is how astronomers identify which features originate in the star, which arise along the line of sight, and what uncertainty remains when multiple sources contribute to one observed spectrum.
-
-This direction emerged from Investigation 004. It is a proposed research direction, not a fixed sequence for all sciences. Other observations may redirect the research.
+The question emerged from Investigation 005 and remains a proposed direction, not a fixed sequence for all sciences. Other observations may redirect the research.
 
 ## Indexing standard
 
