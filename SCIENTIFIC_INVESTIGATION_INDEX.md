@@ -42,10 +42,11 @@ This repository begins a new research sequence. No earlier investigation numberi
 | [033](investigations/033-EVIDENCE-SYNTHESIS-DISAGREEMENT-DEPENDENCY-AND-COMPOSITE-WITNESS.md) | Evidence Synthesis, Disagreement, Dependency, and the Construction of a Composite Witness | Systematic review, meta-analysis, Bayesian statistics, causal inference, measurement science, research methodology, AI-assisted research | Initial investigation and four-question review recorded |
 | [034](investigations/034-OUT-OF-SAMPLE-CONFIRMATION-PROSPECTIVE-TESTING-AND-INDEPENDENT-VALIDATION.md) | Out-of-Sample Confirmation, Prospective Testing, and the Difference Between Synthesis and Independent Confirmation | Predictive modeling, statistical learning, experimental design, prospective research, external validation, reproducibility, measurement science | Initial investigation and four-question review recorded |
 | [035](investigations/035-TRANSPORTABILITY-SCOPE-AND-LIMITS-OF-GENERALIZATION.md) | Transportability, Scope, and the Limits of Generalization Across Populations and Environments | External validity, causal inference, statistical learning, prediction modeling, ecology, evolutionary biology, measurement science | Initial investigation and four-question review recorded |
+| [036](investigations/036-TEMPORAL-CHANGE-ADAPTATION-DRIFT-AND-PERSISTENCE-OF-RELATIONSHIPS.md) | Temporal Change, Adaptation, Drift, and the Persistence of Relationships | Time-series analysis, statistical process control, machine learning, evolutionary biology, ecology, climate science, systems science, measurement science | Initial investigation and four-question review recorded |
 
 ## Next proposed investigation
 
-Investigation 035 raises a possible next direction: temporal change, adaptation, drift, and the persistence of relationships—when system conditions change over time, how can a Witness distinguish ordinary variation, adaptation, gradual drift, and a genuine change in the relationship being observed? This is a possible lead, not a predetermined assignment.
+Investigation 036 raises a possible next direction: interacting processes, feedback, emergence, and the limits of single-cause explanation—when several processes change together, how can a Witness distinguish each process's contribution from the behavior of the whole system? This is a possible lead, not a predetermined assignment.
 
 ## Indexing standard
 
