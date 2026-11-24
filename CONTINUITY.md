@@ -151,3 +151,18 @@ The completed GUA-W relationship Author → Word → Creation → Witness remain
 ### Next investigation
 
 **Investigation 049 — The Counterfeit Offering: Grace, Boasting, Human Response, and the Claim of Origin.** Examine Ephesians 2:1–10; 1 Corinthians 4:6–7; Romans 3:24–27; Romans 9:14–18 and 10:8–13; John 6:35–45 and 6:63–65; Philippians 2:12–13; and 1 Chronicles 29:14. Compare actual theological primary sources and distinguish voluntary response, instrumentality, condition, occasion, merit, efficient cause, and originating authority.
+
+
+## Current continuation: Investigation 049 — Quickening and the Non-Causative Human Will
+
+Jimmy's correction: **“man will is NOT the Cause of quickening.”** The investigation examines the direct KJV attribution of quickening to God, the Father, the Son, and the Spirit in their respective passages, while distinguishing quickening from human willing, hearing, coming, believing, offering, and doing.
+
+Primary texts: John 5:19–29 (especially 5:21, where the Father quickens and the Son quickens whom He will); John 6:35–65 (especially 6:44, 6:63, 6:65: the Father draws and grants; the Spirit quickens); Romans 4:16–25 (4:17, God quickens the dead); Romans 8:1–17 (8:11, future quickening of mortal bodies by God's Spirit); Ephesians 2:1–10 (2:4–5, God quickens those dead in sins); Titus 3:3–8 (regeneration and renewing of the Holy Ghost); 1 Timothy 6:13 (God who quickeneth all things); and Philippians 2:12–13 (God works in believers both to will and to do, but these verses do not themselves use “quicken”).
+
+The investigation preserves grammatical subjects and distinct contexts. It does not compress Father, Son, and Spirit into an imprecise formula or treat every occurrence of quickening as the same event. It distinguishes spiritual quickening from resurrection and the future quickening of mortal bodies. The unresolved phrase “ONE recorded NAME” is left open for Jimmy's clarification: does he intend the revealed name Jesus Christ, the designation God, or the unity of Father, Son, and Spirit across these texts? The KJV wording must remain exact.
+
+The completed GUA-W relationship Author → Word → Creation → Witness remains unchanged. Human willing and doing are real, but are not the originating cause of quickening. No new layer or operation is added; Drift remains any deviation from 100% Alignment with God the Author and His Word.
+
+### Next investigation
+
+**Investigation 050 — The Dead Hear His Voice: Quickening, Hearing, Coming, and Believing in John 5 and John 6.** Examine John 5:19–29; John 6:35–45 and 60–65; John 10:25–30; John 1:12–13; Romans 8:28–30; 1 Corinthians 15:45; Ephesians 2:1–10; and 1 Peter 1:3–5 and 1:23. Preserve sequence, grammatical subject, and the distinction between physical hearing and spiritual quickening.
