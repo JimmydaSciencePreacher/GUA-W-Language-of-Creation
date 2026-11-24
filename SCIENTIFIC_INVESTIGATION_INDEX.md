@@ -21,7 +21,7 @@ This repository begins a new research sequence. No earlier investigation numberi
 
 ## Next proposed investigation
 
-**012 — Magnetic Fields in the Interstellar Medium: Field Geometry, Polarization, Turbulence, Tension, and the Movement of Matter.**
+**013 — Magnetic Fields in the Interstellar Medium: Field Geometry, Polarization, Turbulence, Tension, and the Movement of Matter.**
 
 This proposed investigation will examine how magnetic fields participate in the structure and dynamics of interstellar gas, and how observations distinguish field orientation, field strength, magnetic stress, and magnetized turbulence.
 
